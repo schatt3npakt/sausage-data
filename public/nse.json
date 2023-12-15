@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1,
+    "type": "Pickle Juice Spaghetti",
+    "rating": "5/5",
+    "song": "All My Ex's Live In Texas",
+    "episode": "Can You Boil Spaghetti in Pickle Juice? (NSE)",
+    "episodeID": "aBBuLak9nl0",
+    "episodeLength": "01:20"
+  },
+  {
+    "id": 2,
+    "type": "Espresso Instant Soup",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Can you Make Chicken Soup in an Espresso Machine? (NSE)",
+    "episodeID": "wR9zo_6oYmk",
+    "episodeLength": "01:24"
+  },
+  {
+    "id": 3,
+    "type": "Jello Boiled Eggs",
+    "rating": "Failure",
+    "song": "- No Song -",
+    "episode": "Can you Hard Boil Eggs in Jello?",
+    "episodeID": "MtzZHUXPQ_c",
+    "episodeLength": "01:11"
+  },
+  {
+    "id": 4,
+    "type": "Deep Fried Bread",
+    "rating": "Failure",
+    "song": "- No Song -",
+    "episode": "Deep Fried Bread (NSE)",
+    "episodeID": "seApQqkmvtI",
+    "episodeLength": "03:30"
+  },
+  {
+    "id": 5,
+    "type": "Deep Fried McDouble",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Can You Deep Fry a McDouble? (NSE)",
+    "episodeID": "tDyH8NYUjCA",
+    "episodeLength": "01:23"
+  },
+  {
+    "id": 6,
+    "type": "Diet Coke Spaghetti",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Diet Coke Spaghetti (NSE)",
+    "episodeID": "x6d2QmmJkpQ",
+    "episodeLength": "01:40"
+  },
+  {
+    "id": 7,
+    "type": "A1 Sauce Boiled Steak",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in A1 Steak Sauce (NSE)",
+    "episodeID": "4UTesFdbGgU",
+    "episodeLength": "01:44"
+  },
+  {
+    "id": 8,
+    "type": "Beer Spaghetti",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Beer Spaghetti (NSE)",
+    "episodeID": "5TOfRl6htLk",
+    "episodeLength": "01:35"
+  },
+  {
+    "id": 9,
+    "type": "Deep Fried Caramel Apple",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Caramel Apple",
+    "episodeID": "kknC4NTEekg",
+    "episodeLength": "01:24"
+  },
+  {
+    "id": 10,
+    "type": "Deep Fried Marshmallow",
+    "rating": "Failure",
+    "song": "- No Song -",
+    "episode": "Deep Fried Marshmallow (NSE)",
+    "episodeID": "kM1Nw_wza1A",
+    "episodeLength": "01:04"
+  },
+  {
+    "id": 11,
+    "type": "Chicken Boiled in Honey",
+    "rating": "NO!",
+    "song": "- No Song -",
+    "episode": "Chicken Boiled in Honey (NSE)",
+    "episodeID": "5aiybtTwHh8",
+    "episodeLength": "01:46"
+  },
+  {
+    "id": 12,
+    "type": "Deep Fried Mac and Cheese Balls",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Mac and Cheese Balls (NSE)",
+    "episodeID": "1vZcYjmaQI",
+    "episodeLength": "02:18"
+  },
+  {
+    "id": 13,
+    "type": "Steak Boiled in Mayonnaise",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Mayonnaise (NSE)",
+    "episodeID": "HlhVK-eMPKA",
+    "episodeLength": "01:27"
+  },
+  {
+    "id": 14,
+    "type": "Sous Vide Big Mac / Sous Vide Steak Big Mac",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Sous Vide Big Mac",
+    "episodeID": "NeV3hRqjAgY",
+    "episodeLength": "03:36"
+  },
+  {
+    "id": 15,
+    "type": "Deep Fried Beef Jerky",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Beef Jerky (NSE)",
+    "episodeID": "i36rWnfBOxM",
+    "episodeLength": "02:01"
+  },
+  {
+    "id": 16,
+    "type": "ce Cream Steak",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "ce Cream Steak (NSE)",
+    "episodeID": "gVbxb8CfggI",
+    "episodeLength": "01:46"
+  },
+  {
+    "id": 17,
+    "type": "Jello Spaghetti",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Jello Spaghetti (NSE)",
+    "episodeID": "ffvUhEQtwB4",
+    "episodeLength": "01:32"
+  },
+  {
+    "id": 18,
+    "type": "Funfetti Injected Chicken",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Funfetti Injected Chicken (NSE)",
+    "episodeID": "h6zCCV_PhGA",
+    "episodeLength": "02:07"
+  },
+  {
+    "id": 19,
+    "type": "Dehydrated Hot Dogs",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Dehydrated Hot Dogs (NSE)",
+    "episodeID": "tNuJJQRmy50",
+    "episodeLength": "02:22"
+  },
+  {
+    "id": 20,
+    "type": "Spaghetto",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Spaghetto (NSE)",
+    "episodeID": "Poot8CUVyQ0",
+    "episodeLength": "02:16"
+  },
+  {
+    "id": 21,
+    "type": "Monster Energy Steak",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Monster Energy Steak (NSE)",
+    "episodeID": "gO58FeSspz8",
+    "episodeLength": "01:49"
+  },
+  {
+    "id": 22,
+    "type": "Dehydrated T-Bone Steak",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Dehydrated T-Bone Steak (NSE)",
+    "episodeID": "DF2SaQUfgfw",
+    "episodeLength": "01:37"
+  },
+  {
+    "id": 23,
+    "type": "Deep Fried Bologna Cake",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Bologna Cake (NSE)",
+    "episodeID": "YfcgfJQupCo",
+    "episodeLength": "01:49"
+  },
+  {
+    "id": 24,
+    "type": "Dehydrated Pickles",
+    "rating": "0.5/5",
+    "song": "- No Song -",
+    "episode": "Dehydrated Pickles (NSE)",
+    "episodeID": "1Oygknm7Y3I",
+    "episodeLength": "02:05"
+  },
+  {
+    "id": 25,
+    "type": "Steak Boiled in Eggs",
+    "rating": "1/5",
+    "song": "You’re Beautiful",
+    "episode": "Steak Boiled in Eggs (NSE)",
+    "episodeID": "PDga_GXeVY",
+    "episodeLength": "01:15"
+  },
+  {
+    "id": 26,
+    "type": "Face Steak",
+    "rating": "No Rating",
+    "song": "- No Song -",
+    "episode": "Face Steak (NSE)",
+    "episodeID": "mTqv_wlfna0",
+    "episodeLength": "01:03"
+  },
+  {
+    "id": 27,
+    "type": "Chicken Boiled in Soy Sauce",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Chicken Boiled in Soy Sauce (NSE)",
+    "episodeID": "y1ALOzrQUog",
+    "episodeLength": "01:03"
+  },
+  {
+    "id": 28,
+    "type": "Carbonated Chicken Soup",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Carbonated Chicken Soup (NSE)",
+    "episodeID": "KVWbNlyiBy8",
+    "episodeLength": "01:27"
+  },
+  {
+    "id": 29,
+    "type": "Deep Fried Fruit Roll Up",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Fruit Roll Up (NSE)",
+    "episodeID": "f0IJuKQXvBU",
+    "episodeLength": "01:10"
+  },
+  {
+    "id": 30,
+    "type": "Steak Boiled in Liquid Smoke (NSE)",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Liquid Smoke (NSE)",
+    "episodeID": "X0DXTCsTZ04",
+    "episodeLength": "01:15"
+  },
+  {
+    "id": 31,
+    "type": "Egg Hard Boiled in Candle Way",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Does candle wax have enough residual heat to hard boil an egg?",
+    "episodeID": "l3IuuJIG3ks",
+    "episodeLength": "01:00"
+  },
+  {
+    "id": 32,
+    "type": "Chocolate Mashed Potatoes",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Chocolate Mashed Potatoes",
+    "episodeID": "OaHhbuSwOLo",
+    "episodeLength": "01:00"
+  },
+  {
+    "id": 33,
+    "type": "Steak Boiled In Cheese",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Cheese (NSE)",
+    "episodeID": "vLgEO0E0ncY",
+    "episodeLength": "02:08"
+  },
+  {
+    "id": 34,
+    "type": "Popsicle Lobster Tail",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "I don't believe it's ever been tried before, here is a lobster tail flavored with popsicles.",
+    "episodeID": "q0nus8M3ZYI",
+    "episodeLength": "01:20"
+  },
+  {
+    "id": 35,
+    "type": "Steak Boiled in Pickle Juice",
+    "rating": "3.5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Pickle Juice (NSE)",
+    "episodeID": "9fVB4WPjH38",
+    "episodeLength": "01:19"
+  },
+  {
+    "id": 36,
+    "type": "Not-so-ordinary loaded Chipotle waffle",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Not-so-ordinary loaded Chipotle waffle (NSE)",
+    "episodeID": "Qo6zBdr8SWg",
+    "episodeLength": "01:43"
+  },
+  {
+    "id": 37,
+    "type": "Sous Vide Syrup Steak",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Sous Vide Syrup Steak (NSE)",
+    "episodeID": "OQzkFgMC-dk",
+    "episodeLength": "01:33"
+  },
+  {
+    "id": 38,
+    "type": "Sushi Waffle",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Sushi Waffle (NSE)",
+    "episodeID": "FP0IdWoB70Q",
+    "episodeLength": "01:31"
+  },
+  {
+    "id": 39,
+    "type": "Steak Boiled in Baked Beans",
+    "rating": "6/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Baked Beans (NSE)",
+    "episodeID": "rfASiTsd_Ks",
+    "episodeLength": "01:29"
+  },
+  {
+    "id": 40,
+    "type": "Dehydrated Quarter Pounder and Fries",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Dehydrated Quarter Pounder and Fries (NSE)",
+    "episodeID": "hByU2GNIlw0",
+    "episodeLength": "02:00"
+  },
+  {
+    "id": 41,
+    "type": "OREO Fried Chicken",
+    "rating": "3.5/5",
+    "song": "- No Song -",
+    "episode": "OREO Fried Chicken (NSE)",
+    "episodeID": "Ps8-mUUL5IE",
+    "episodeLength": "01:47"
+  },
+  {
+    "id": 42,
+    "type": "Frank's Red Hot Spaghetti",
+    "rating": "3.5/5",
+    "song": "- No Song -",
+    "episode": "Frank's Red Hot Sauce Spaghetti (NSE)",
+    "episodeID": "oZTkkhpH0N8",
+    "episodeLength": "02:16"
+  },
+  {
+    "id": 43,
+    "type": "Carbonated Baked Beans",
+    "rating": "4/5",
+    "song": "You Can't Always Get What You Want",
+    "episode": "Carbonated Baked Beans (NSE)",
+    "episodeID": "78p-6rdkNOg",
+    "episodeLength": "01:31"
+  },
+  {
+    "id": 44,
+    "type": "Steak Boiled in Margarita",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Margarita (NSE)",
+    "episodeID": "QdiLyHbmCiA",
+    "episodeLength": "01:28"
+  },
+  {
+    "id": 45,
+    "type": "SpaghettGlobe",
+    "rating": "2.5/5",
+    "song": "Pokemon",
+    "episode": "SpaghettGlobe",
+    "episodeID": "kwUnpTSQV7c",
+    "episodeLength": "02:14"
+  },
+  {
+    "id": 46,
+    "type": "Deep Frying An Apple For An Hour",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying An Apple For An Hour (NSE)",
+    "episodeID": "mH3ziFDiqj4",
+    "episodeLength": "01:59"
+  },
+  {
+    "id": 47,
+    "type": "Dehydrated Eggs",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Dehydrated Hard Boiled Egg vs Dehydrated Raw Egg",
+    "episodeID": "B3-ndLRJXkU",
+    "episodeLength": "01:51"
+  },
+  {
+    "id": 48,
+    "type": "Waffled Chef Boyardee Beef Ravioli",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Waffled Chef Boyardee Beef Ravioli (NSE)",
+    "episodeID": "kPr8eAg5Bs0",
+    "episodeLength": "01:18"
+  },
+  {
+    "id": 49,
+    "type": "Carbonated Eggs",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Carbonated Eggs (NSE)",
+    "episodeID": "LHTzKnWiCeE",
+    "episodeLength": "01:26"
+  },
+  {
+    "id": 50,
+    "type": "Steak Boiled in Yellow Mustard",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Yellow Mustard (NSE)",
+    "episodeID": "8pALnVB4dkY",
+    "episodeLength": "01:22"
+  },
+  {
+    "id": 51,
+    "type": "Deep-fried Bananas",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Banana for an Hour (NSE)",
+    "episodeID": "sBxEFfelJQE",
+    "episodeLength": "01:49"
+  },
+  {
+    "id": 52,
+    "type": "Bacon Wrapped Bacon",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Bacon Wrapped Bacon (NSE)",
+    "episodeID": "c79nCFQdZK8",
+    "episodeLength": "01:50"
+  },
+  {
+    "id": 53,
+    "type": "Deep Frying an Orange for an Hour",
+    "rating": "1/5",
+    "song": "- No Song-",
+    "episode": "Deep Frying an Orange for an Hour (NSE)",
+    "episodeID": "Oupg3_XwCCg",
+    "episodeLength": "01:24"
+  },
+  {
+    "id": 54,
+    "type": "Ultra Cabbage",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Ultra Cabbage",
+    "episodeID": "1hS-FdgxMIc",
+    "episodeLength": "01:05"
+  },
+  {
+    "id": 55,
+    "type": "Spam Surprise",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Spam Surprise (NSE)",
+    "episodeID": "6hC_r9ftX3g",
+    "episodeLength": "01:03"
+  },
+  {
+    "id": 56,
+    "type": "Hamburger Pie",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Hamburger Pie (NSE Too)",
+    "episodeID": "cv2Uvz3Va1A",
+    "episodeLength": "01:04"
+  },
+  {
+    "id": 57,
+    "type": "Deep-Fried Kiwi",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Kiwi for an Hour (NSE)",
+    "episodeID": "6LUVLu2EwQw",
+    "episodeLength": "01:08"
+  },
+  {
+    "id": 58,
+    "type": "Mega Starburst",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Mega Starburst (NSE Too)",
+    "episodeID": "KG3dsgUmbNo",
+    "episodeLength": "01:06"
+  },
+  {
+    "id": 59,
+    "type": "Steak Boiled in Sugar",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Sugar",
+    "episodeID": "r_JN0OgEZmY",
+    "episodeLength": "01:09"
+  },
+  {
+    "id": 60,
+    "type": "Thickle aka Pickle Jello",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Thickle aka Pickle Jello (NSE Too)",
+    "episodeID": "5K8tTS80ZQw",
+    "episodeLength": "00:50"
+  },
+  {
+    "id": 61,
+    "type": "Pizza stuffed Pancake",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Pizza stuffed Pancake (NSE)",
+    "episodeID": "Y95x91ep4GM",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 62,
+    "type": "Carbonated Ketchup",
+    "rating": "1/5",
+    "song": "(I've Had) The Time of My Life",
+    "episode": "Carbonated Ketchup (NSE Too)",
+    "episodeID": "gN8TUz4SIak",
+    "episodeLength": "01:30"
+  },
+  {
+    "id": 63,
+    "type": "Deep-Fried Steak Bowl",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Steak Bowl (NSE)",
+    "episodeID": "RuZe83m4ys0",
+    "episodeLength": "02:14"
+  },
+  {
+    "id": 64,
+    "type": "Froot Loops Spaghetti",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Froot Loops Spaghetti (NSE Too)",
+    "episodeID": "okcbEnsHXk0",
+    "episodeLength": "01:33"
+  },
+  {
+    "id": 65,
+    "type": "Skittles Steak / Skittles Apple",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Skittles (NSE)",
+    "episodeID": "S0X9KHaDNz4",
+    "episodeLength": "01:45"
+  },
+  {
+    "id": 66,
+    "type": "Cocoa Puffs Pizza",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "They told me not to do it and I did it anyway | Cocoa Puffs Pizza (NSE Too)",
+    "episodeID": "09eKpUyIq58",
+    "episodeLength": "01:50"
+  },
+  {
+    "id": 67,
+    "type": "Deep-Fried Corn",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying Corn for an Hour (NSE)",
+    "episodeID": "LDXpB6cfi7s",
+    "episodeLength": "01:33"
+  },
+  {
+    "id": 68,
+    "type": "Steak Baked inside of an Onion",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Baked inside of an Onion (NSE Too)",
+    "episodeID": "OefWlXaUNp0",
+    "episodeLength": "01:45"
+  },
+  {
+    "id": 69,
+    "type": "Orange Juice Spaghetti",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Orange Juice Spaghetti (NSE)",
+    "episodeID": "4DvoesWmtC4",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 70,
+    "type": "Chicken Boiled in Nuclear Green Kool-Aid",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Chicken Boiled in Nuclear Green Kool-Aid",
+    "episodeID": "g1VyZPf4cog",
+    "episodeLength": "01:14"
+  },
+  {
+    "id": 71,
+    "type": "Deep Frying a Tomato for an Hour",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Tomato for an Hour (NSE)",
+    "episodeID": "Cfvqo-kyxoQ",
+    "episodeLength": "01:52"
+  },
+  {
+    "id": 72,
+    "type": "Steak Boiled in Chocolate",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Chocolate (NSE Too)",
+    "episodeID": "Oqpw_pLCzUU",
+    "episodeLength": "01:26"
+  },
+  {
+    "id": 73,
+    "type": "Steak Baked in a Bell Pepper",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Steak Baked in a Bell Pepper (NSE)",
+    "episodeID": "STDnFyKkCAI",
+    "episodeLength": "01:18"
+  },
+  {
+    "id": 74,
+    "type": "BBQ Chips Mashed Potatoes",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "BBQ Chips Mashed Potatoes (NSE Too)",
+    "episodeID": "ttLKXIKWtXQ",
+    "episodeLength": "01:07"
+  },
+  {
+    "id": 75,
+    "type": "Deep Fried Celery",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Celery (NSE)",
+    "episodeID": "sW9kKP34_B0",
+    "episodeLength": "01:19"
+  },
+  {
+    "id": 76,
+    "type": "Pink Lemonade Macaroni",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Pink Lemonade Macaroni (NSE Too)",
+    "episodeID": "izfWj-6GsjM",
+    "episodeLength": "01:20"
+  },
+  {
+    "id": 77,
+    "type": "Waffled Sweet and Sour Chicken",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Waffled Sweet and Sour Chicken (NSE)",
+    "episodeID": "qjmBNJ7jjF0",
+    "episodeLength": "01:41"
+  },
+  {
+    "id": 78,
+    "type": "Steak Boiled in Sour Worms",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Sour Worms (NSE Too)",
+    "episodeID": "hGyeg_vNl2U",
+    "episodeLength": "01:12"
+  },
+  {
+    "id": 79,
+    "type": "The Entire Lemon Spaghetti",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "The Entire Lemon Spaghetti (NSE)",
+    "episodeID": "0rtjiSUk7YI",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 80,
+    "type": "Steak Baked in a Pineapple",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Steak Baked in a Pineapple (NSE Too)",
+    "episodeID": "36GiOKCFWkI",
+    "episodeLength": "01:39"
+  },
+  {
+    "id": 81,
+    "type": "Liquid Smoke Spaghetti",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "I Am a Broken Man. Liquid Smoke Spaghetti (NSE)",
+    "episodeID": "MHThsVHwYeA",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 82,
+    "type": "Deep Frying a Potato for an Hour",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Potato for an Hour (NSE)",
+    "episodeID": "FhGppENpfVc",
+    "episodeLength": "01:35"
+  },
+  {
+    "id": 83,
+    "type": "Steak Boiled in Peanut Butter Cups",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Peanut Butter Cups (NSE)",
+    "episodeID": "N-FeL0G0SXM",
+    "episodeLength": "01:20"
+  },
+  {
+    "id": 64,
+    "type": "Lazy Frozen Meal Casserole",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Would You Eat This?",
+    "episodeID": "7tmeD_FUpCI",
+    "episodeLength": "01:24"
+  },
+  {
+    "id": 65,
+    "type": "Candy Corn Steak",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Candy Corn Steak (NSE)",
+    "episodeID": "yT5vpPUTZlE",
+    "episodeLength": "01:24"
+  },
+  {
+    "id": 66,
+    "type": "Deep Frying an Onion for an Hour",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying an Onion for an Hour (NSE)",
+    "episodeID": "Ed6PkuzFL8A",
+    "episodeLength": "01:29"
+  },
+  {
+    "id": 67,
+    "type": "Soy Sauce Boiled Rice",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Soy Sauce Boiled Rice (NSE)",
+    "episodeID": "kHsPrgfGPZE",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 68,
+    "type": "Kentucky Shrimp Scampi",
+    "rating": "5/5",
+    "song": "A Moment Like This",
+    "episode": "Kentucky Shrimp Scampi (NSE)",
+    "episodeID": "pYxHCxfJC-o",
+    "episodeLength": "01:15"
+  },
+  {
+    "id": 69,
+    "type": "Deep Frying a Carrot for an Hour",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Carrot for an Hour (NSE)",
+    "episodeID": "kVwc9Bn08n8",
+    "episodeLength": "01:13"
+  },
+  {
+    "id": 70,
+    "type": "Mustard Soda Spaghetti",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Mustard Soda Spaghetti (NSE)",
+    "episodeID": "DzjlDV6t1pk",
+    "episodeLength": "01:06"
+  }
+]
