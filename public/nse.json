@@ -808,5 +808,32 @@
     "episode": "Mustard Soda Spaghetti (NSE)",
     "episodeID": "DzjlDV6t1pk",
     "episodeLength": "01:06"
+  },
+  {
+    "id": 71,
+    "type": "Deep Frying a Hot Dog for an Hour",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Hot Dog for an Hour (NSE?)",
+    "episodeID": "Eh2ygjjy4uE",
+    "episodeLength": "01:16"
+  },
+  {
+    "id": 72,
+    "type": "Deep Frying a $130 Wagyu Ribeye Steak for an Hour",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a $130 Wagyu Ribeye Steak for an Hour (NSE)",
+    "episodeID": "bCYYeuXXIXo",
+    "episodeLength": "01:15"
+  },
+  {
+    "id": 73,
+    "type": "Bacon Wrapped Donut",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Bacon Wrapped Donut: Is it any good?",
+    "episodeID": "ATcEFNECub4",
+    "episodeLength": "01:05"
   }
 ]
