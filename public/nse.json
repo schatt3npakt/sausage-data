@@ -853,5 +853,23 @@
     "episode": "Steak Boiled in Jeppson's Malört (NSE)",
     "episodeID": "g2PWWl0J2hE",
     "episodeLength": "01:21"
+  },
+  {
+    "id": 96,
+    "type": "Deep-Fried Habanero",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Habanero Pepper for an Hour (NSE)",
+    "episodeID": "2AHVMyzOir0",
+    "episodeLength": "01:26"
+  },
+  {
+    "id": 97,
+    "type": "Sushi Soup",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Sushi Soup - La Sopa de Sushi (NSE)",
+    "episodeID": "bXVEi6sCV540",
+    "episodeLength": "01:02"
   }
 ]
