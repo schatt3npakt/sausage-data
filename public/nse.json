@@ -871,5 +871,32 @@
     "episode": "Sushi Soup - La Sopa de Sushi (NSE)",
     "episodeID": "bXVEi6sCV540",
     "episodeLength": "01:02"
+  },
+  {
+    "id": 98,
+    "type": "French Fry Mystery Sauce",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "French Fry Mystery Sauce (NSE)",
+    "episodeID": "u3Q7Kcbxgpo&t=2s",
+    "episodeLength": "01:56"
+  },
+  {
+    "id": 99,
+    "type": "Mustard Cake",
+    "rating": "0.5/5",
+    "song": "Halo",
+    "episode": "Mustard Cake (NSE)",
+    "episodeID": "AUvur2Lm3nw",
+    "episodeLength": "01:43"
+  },
+  {
+    "id": 100,
+    "type": "Steak Baked Inside a Rotisserie Chicken",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Steak Baked Inside a Rotisserie Chicken (NSE)",
+    "episodeID": "zsHl_KDPlhU",
+    "episodeLength": "01:16"
   }
 ]

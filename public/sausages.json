@@ -5854,5 +5854,17 @@
     "episodeID": "MBZNQ5zvGhI",
     "episodeType": "Standard",
     "episodeLength": "04:47"
+  },
+  {
+    "id": 489,
+    "type": "Charcoal",
+    "rating": "1/5",
+    "dibl": "2/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Yellow",
+    "episode": "Charcoalsage",
+    "episodeID": "TPTXVYDh3ug",
+    "episodeType": "Standard",
+    "episodeLength": "05:13"
   }
 ]
