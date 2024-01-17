@@ -898,5 +898,32 @@
     "episode": "Steak Baked Inside a Rotisserie Chicken (NSE)",
     "episodeID": "zsHl_KDPlhU",
     "episodeLength": "01:16"
+  },
+  {
+    "id": 101,
+    "type": "Deep Fried Cucumber",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Cucumber for an Hour (NSE)",
+    "episodeID": "aUyNVfGkhQ8",
+    "episodeLength": "01:18"
+  },
+  {
+    "id": 102,
+    "type": "Sriracha Steak",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Sriracha (NSE)",
+    "episodeID": "AGrft_UG0xM",
+    "episodeLength": "01:16"
+  },
+  {
+    "id": 103,
+    "type": "Chicken Waffle",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Chicken IS the Waffle (NSE)",
+    "episodeID": "rmAmh8FZBc8",
+    "episodeLength": "01:22"
   }
 ]

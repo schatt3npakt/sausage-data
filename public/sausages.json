@@ -5866,5 +5866,17 @@
     "episodeID": "TPTXVYDh3ug",
     "episodeType": "Standard",
     "episodeLength": "05:13"
+  },
+  {
+    "id": 490,
+    "type": "Stroopwafel",
+    "rating": "4/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Legs",
+    "episode": "Stroopwafel Sausage",
+    "episodeID": "RuquSs-qFVA",
+    "episodeType": "Standard",
+    "episodeLength": "05:01"
   }
 ]
