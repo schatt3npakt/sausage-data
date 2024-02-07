@@ -5878,5 +5878,29 @@
     "episodeID": "RuquSs-qFVA",
     "episodeType": "Standard",
     "episodeLength": "05:01"
+  },
+  {
+    "id": 491,
+    "type": "Pickled Ginger",
+    "rating": "5/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Cheeseburger in Paradise",
+    "episode": "Pickled Ginger",
+    "episodeID": "VuAQH9tjMHE",
+    "episodeType": "Standard",
+    "episodeLength": "03:36"
+  },
+  {
+    "id": 492,
+    "type": "Russian Pine Cone Jam",
+    "rating": "1/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Mr. Blue Sky",
+    "episode": "Russian Pine Cone Jam Sausage",
+    "episodeID": "4fk-YAxeNms",
+    "episodeType": "Standard",
+    "episodeLength": "04:48"
   }
 ]

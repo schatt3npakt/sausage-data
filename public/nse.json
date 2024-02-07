@@ -925,5 +925,41 @@
     "episode": "Chicken IS the Waffle (NSE)",
     "episodeID": "rmAmh8FZBc8",
     "episodeLength": "01:22"
+  },
+  {
+    "id": 104,
+    "type": "Wasabi Cake",
+    "rating": "1.5/5",
+    "song": "- No Song -",
+    "episode": "Wasabi Cake (NSE)",
+    "episodeID": "O9OSn8zCSHI",
+    "episodeLength": "01:30"
+  },
+  {
+    "id": 105,
+    "type": "Pop-Tarts Fried Chicken",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Pop-Tarts Fried Chicken (NSE)",
+    "episodeID": "68ggJ0AVp9o",
+    "episodeLength": "01:26"
+  },
+  {
+    "id": 106,
+    "type": "Spaghetti Cooked in Hot Dog Water",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Spaghetti Cooked in Hot Dog Water (NSE)",
+    "episodeID": "ACPLa-TCVUI",
+    "episodeLength": "01:00"
+  },
+  {
+    "id": 107,
+    "type": "Escargot Espresso",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Escargot Espresso (NSE)",
+    "episodeID": "NI0iioInnH8",
+    "episodeLength": "01:55"
   }
 ]
