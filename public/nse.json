@@ -961,5 +961,50 @@
     "episode": "Escargot Espresso (NSE)",
     "episodeID": "NI0iioInnH8",
     "episodeLength": "01:55"
+  },
+  {
+    "id": 108,
+    "type": "Thick Water Lobster",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Thick Water Lobster (NSE)",
+    "episodeID": "fjBC2KFgU5I",
+    "episodeLength": "01:42"
+  },
+  {
+    "id": 109,
+    "type": "Steak Boiled in Old Fashioned Peppermint Candy",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Old Fashioned Peppermint Candy (NSE)",
+    "episodeID": "0NCyjBZmN3M",
+    "episodeLength": "01:35"
+  },
+  {
+    "id": 110,
+    "type": "Deep Frying a Garlic Bulb for an Hour",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Garlic Bulb for an Hour (NSE)",
+    "episodeID": "by7eCMQo29U",
+    "episodeLength": "01:45"
+  },
+  {
+    "id": 111,
+    "type": "Liquid Smoke Jello",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Liquid Smoke Jello (NSE)",
+    "episodeID": "DMUY8--fyEE",
+    "episodeLength": "01:13"
+  },
+  {
+    "id": 112,
+    "type": "Breakfast Stuffed Bread (NSE)",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Liquid Smoke Jello (NSE)",
+    "episodeID": "FH3vrwDBI2M",
+    "episodeLength": "01:02"
   }
 ]

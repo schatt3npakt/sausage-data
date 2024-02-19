@@ -5902,5 +5902,41 @@
     "episodeID": "4fk-YAxeNms",
     "episodeType": "Standard",
     "episodeLength": "04:48"
+  },
+  {
+    "id": 493,
+    "type": "Matcha",
+    "rating": "2.5/5",
+    "dibl": "0.5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "This Magic Moment",
+    "episode": "Matcha Tea Sausage (Not Suitable for Young Viewers)",
+    "episodeID": "Jm1a9J4_3gA",
+    "episodeType": "Standard",
+    "episodeLength": "05:14"
+  },
+  {
+    "id": 494,
+    "type": "Doritos Dip",
+    "rating": "3.5/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Heard It Through The Grapevine",
+    "episode": "Doritos Dip Sausage",
+    "episodeID": "wMS3dzTNFXw",
+    "episodeType": "Standard",
+    "episodeLength": "05:14"
+  },
+  {
+    "id": 495,
+    "type": "Menthol",
+    "rating": "-1/5",
+    "dibl": "2/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Big Girls Don't Cry",
+    "episode": "Menthol Sausage",
+    "episodeID": "9IB5Rg5kBhg",
+    "episodeType": "Standard",
+    "episodeLength": "05:35"
   }
 ]
