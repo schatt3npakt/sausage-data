@@ -5938,5 +5938,29 @@
     "episodeID": "9IB5Rg5kBhg",
     "episodeType": "Standard",
     "episodeLength": "05:35"
+  },
+  {
+    "id": 496,
+    "type": "Astronaut Ice Cream",
+    "rating": "4/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Lifestyles Of The Rich And Famous",
+    "episode": "Astronaut Ice Cream Sausage",
+    "episodeID": "tfMMom--HB0",
+    "episodeType": "Standard",
+    "episodeLength": "02:41"
+  },
+  {
+    "id": 497,
+    "type": "Chizza",
+    "rating": "5/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "- No Song -",
+    "episode": "Chizza Sausage",
+    "episodeID": "3JH7GYpoVpo",
+    "episodeType": "Standard",
+    "episodeLength": "03:44"
   }
 ]

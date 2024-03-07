@@ -1006,5 +1006,50 @@
     "episode": "Liquid Smoke Jello (NSE)",
     "episodeID": "FH3vrwDBI2M",
     "episodeLength": "01:02"
+  },
+  {
+    "id": 113,
+    "type": "Cotton Candy Hot Dog",
+    "rating": "4.5/5",
+    "song": "- No Song -",
+    "episode": "Cotton Candy Hot Dog (NSE)",
+    "episodeID": "Ix5RM5uRJRY",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 114,
+    "type": "Thick Water Steak",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Thick Water Steak (NSE)",
+    "episodeID": "NT3K2TnNrwY",
+    "episodeLength": "01:06"
+  },
+  {
+    "id": 115,
+    "type": "Trix Cereal Fried Chicken",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Trix Cereal Fried Chicken (NSE)",
+    "episodeID": "EbWgFZ5fyKM",
+    "episodeLength": "01:16"
+  },
+  {
+    "id": 116,
+    "type": "Baja Blast Scrambled Eggs",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Baja Blast Scrambled Eggs (NSE)",
+    "episodeID": "rtZ7CYVWB4Y",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 117,
+    "type": "Chicken Boiled in Go-Gurt",
+    "rating": "4.5/5",
+    "song": "- No Song -",
+    "episode": "Chicken Boiled in Go-Gurt (NSE)",
+    "episodeID": "GF8GfsnLgH0",
+    "episodeLength": "01:28"
   }
 ]
