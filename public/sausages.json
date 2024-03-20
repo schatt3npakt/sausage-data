@@ -5962,5 +5962,29 @@
     "episodeID": "3JH7GYpoVpo",
     "episodeType": "Standard",
     "episodeLength": "03:44"
+  },
+  {
+    "id": 498,
+    "type": "Citric Acid",
+    "rating": "Disqualified",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Everywhere",
+    "episode": "Citric Acid Sausage",
+    "episodeID": "YV9-CagC6EI",
+    "episodeType": "Standard",
+    "episodeLength": "05:51"
+  },
+  {
+    "id": 499,
+    "type": "Butter Powder",
+    "rating": "5/5",
+    "dibl": "2/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Tears in Heaven",
+    "episode": "Butter Powder Sausage",
+    "episodeID": "CWTcs0_vbEs",
+    "episodeType": "Standard",
+    "episodeLength": "04:08"
   }
 ]

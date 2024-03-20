@@ -1051,5 +1051,32 @@
     "episode": "Chicken Boiled in Go-Gurt (NSE)",
     "episodeID": "GF8GfsnLgH0",
     "episodeLength": "01:28"
+  },
+  {
+    "id": 118,
+    "type": "SpaghettiOs Sandwich",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "SpaghettiOs Sandwich (NSE)",
+    "episodeID": "zZ12JKSzEOY",
+    "episodeLength": "01:13"
+  },
+  {
+    "id": 119,
+    "type": "Steak Boiled in Skyline Chili",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Skyline Chili (NSE)",
+    "episodeID": "W0w8W8P7fs0",
+    "episodeLength": "01:30"
+  },
+  {
+    "id": 120,
+    "type": "Slim Jim Burger",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Slim Jim Burger (NSE)",
+    "episodeID": "E_BHTAjViIQ",
+    "episodeLength": "01:30"
   }
 ]
