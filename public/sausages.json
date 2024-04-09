@@ -5986,5 +5986,41 @@
     "episodeID": "CWTcs0_vbEs",
     "episodeType": "Standard",
     "episodeLength": "04:08"
+  },
+  {
+    "id": 500,
+    "type": "Wagyu Beef Tallow",
+    "rating": "2/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Hands Down",
+    "episode": "Wagyu Beef Tallow Sausage",
+    "episodeID": "NhQK456A5p0",
+    "episodeType": "Standard",
+    "episodeLength": "03:51"
+  },
+  {
+    "id": 501,
+    "type": "Vaseline",
+    "rating": "3.5/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Fortunate Son",
+    "episode": "Vaseline Sausage",
+    "episodeID": "zdw-2gpDoQg",
+    "episodeType": "Standard",
+    "episodeLength": "05:30"
+  },
+  {
+    "id": 502,
+    "type": "Kidneys Sausage",
+    "rating": "5/5",
+    "dibl": "5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Rich Lips",
+    "episode": "Kidneys Sausage",
+    "episodeID": "OY1NCeIGNW4",
+    "episodeType": "Standard",
+    "episodeLength": "05:52"
   }
 ]
