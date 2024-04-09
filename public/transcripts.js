@@ -3,105 +3,166 @@ import fs from "fs";
 import sausages from "./sausages.json" assert { type: "json" };
 import nses from "./nse.json" assert { type: "json" };
 
-async function fetchTranscriptAndSaveToFile(id, index, path) {
-  await YoutubeTranscript.fetchTranscript(id).then(
-    async (fetchedTranscript) => {
-      fs.writeFile(
-        path + index + ".json",
-        JSON.stringify(fetchedTranscript, null, 2),
-        (err) => {
-          if (err) throw err;
-          console.log("Transcript has been saved!");
-        }
-      );
-    }
-  );
-}
+import { YoutubeTranscript } from "youtube-transcript";
+import fs from "fs";
+import sausages from "./sausages.json" assert { type: "json" };
+import nses from "./nse.json" assert { type: "json" };
 
-async function fetchAllSausageTranscripts() {
-  for (const sausage of sausages) {
-    // skip removed videos
-    if ([415, 430].includes(sausage.id)) {
-      continue;
-    }
-    await fetchTranscriptAndSaveToFile(
-      sausage.episodeID,
-      sausage.id,
-      "./transcripts/raw/sausages/"
+class TranscriptFetcher {
+  /**
+   * Fetches the transcript for a given video ID and saves it to a file.
+   * @param {string} id - The video ID.
+   * @param {number} index - The index of the transcript.
+   * @param {string} path - The path where the transcript file will be saved.
+   * @returns {Promise<void>} - A promise that resolves when the transcript has been saved.
+   */
+  async #fetchTranscriptAndSaveToFile(id, index, path) {
+    await YoutubeTranscript.fetchTranscript(id).then(
+      async (fetchedTranscript) => {
+        fs.writeFile(
+          path + index + ".json",
+          JSON.stringify(fetchedTranscript, null, 2),
+          (err) => {
+            if (err) throw err;
+            console.log("Transcript has been saved!");
+          }
+        );
+      }
     );
   }
-}
 
-async function fetchAllNseTranscripts() {
-  for (const nse of nses) {
-    // skip removed videos
-    if ([12, 25, 97].includes(nse.id)) {
-      continue;
-    }
-    await fetchTranscriptAndSaveToFile(
-      nse.episodeID,
-      nse.id,
-      "./transcripts/raw/nse/"
-    );
-  }
-}
-
-async function parseTranscriptAndSaveToFile(index, type) {
-  await fs.readFile(
-    "./transcripts/raw/" + type + "/" + index + ".json",
-    "utf-8",
-    async (err, data) => {
-      if (err) {
-        console.error(err);
-        return;
+  /**
+   * Fetches and saves transcripts for all sausages from ./public/sausages.json.
+   * @private
+   * @returns {Promise<void>} A promise that resolves when all transcripts are fetched and saved.
+   */
+  async #fetchAllSausageTranscripts() {
+    for (const sausage of sausages) {
+      // skip removed videos
+      if ([415, 430].includes(sausage.id)) {
+        continue;
       }
-
-      let input = JSON.parse(data);
-      let parsedData = "";
-
-      for (const entry of input) {
-        parsedData += entry.text + " ";
-      }
-
-      parsedData.replaceAll("[Music]", "");
-      parsedData.replaceAll("  ", " ");
-
-      fs.writeFile(
-        "./transcripts/parsed/" + type + "/" + index + ".json",
-        JSON.stringify(parsedData, null, 2),
-        (err) => {
-          if (err) throw err;
-          console.log("Transcript has been parsed!");
-        }
+      await this.fetchTranscriptAndSaveToFile(
+        sausage.episodeID,
+        sausage.id,
+        "../transcripts/raw/sausages/"
       );
     }
-  );
-}
+  }
 
-async function parseAllNseTranscripts() {
-  for (const nse of nses) {
-    // skip removed videos
-    if ([12, 25, 97].includes(nse.id)) {
-      continue;
+  /**
+   * Fetches and saves transcripts for all NSE episodes.
+   * @private
+   * @async
+   * @returns {Promise<void>}
+   */
+  async #fetchAllNseTranscripts() {
+    for (const nse of nses) {
+      // skip removed videos
+      if ([12, 25, 97].includes(nse.id)) {
+        continue;
+      }
+      await fetchTranscriptAndSaveToFile(
+        nse.episodeID,
+        nse.id,
+        "./transcripts/raw/nse/"
+      );
     }
-    await parseTranscriptAndSaveToFile(nse.id, "nse");
+  }
+
+  /**
+   * Parses the raw transcript data and saves it to a concactenated json for easier querying.
+   * @param {number} index - The index of the transcript.
+   * @param {string} type - The type of the transcript, sauasges or nse.
+   * @returns {Promise<void>} - A promise that resolves when the transcript has been parsed and saved.
+   */
+  async #parseTranscriptAndSaveToFile(index, type) {
+    await fs.readFile(
+      "./transcripts/raw/" + type + "/" + index + ".json",
+      "utf-8",
+      async (err, data) => {
+        if (err) {
+          console.error(err);
+          return;
+        }
+
+        let input = JSON.parse(data);
+        let parsedData = "";
+
+        for (const entry of input) {
+          parsedData += entry.text + " ";
+        }
+
+        parsedData.replaceAll("[Music]", "");
+        parsedData.replaceAll("  ", " ");
+
+        fs.writeFile(
+          "./transcripts/parsed/" + type + "/" + index + ".json",
+          JSON.stringify(parsedData, null, 2),
+          (err) => {
+            if (err) throw err;
+            console.log("Transcript has been parsed!");
+          }
+        );
+      }
+    );
+  }
+
+  /**
+   * Parses all NSE transcripts.
+   * @private
+   * @returns {Promise<void>} A promise that resolves when all transcripts are parsed and saved.
+   */
+  async #parseAllNseTranscripts() {
+    for (const nse of nses) {
+      // skip removed videos
+      if ([12, 25, 97].includes(nse.id)) {
+        continue;
+      }
+      await parseTranscriptAndSaveToFile(nse.id, "nse");
+    }
+  }
+
+  /**
+   * Parses all sausage transcripts and saves them to files.
+   * @private
+   * @returns {Promise<void>} A Promise that resolves when all transcripts have been parsed and saved.
+   */
+  async #parseAllSausageTranscripts() {
+    for (const sausage of sausages) {
+      // skip removed videos
+      if ([415, 430].includes(sausage.id)) {
+        continue;
+      }
+
+      await parseTranscriptAndSaveToFile(sausage.id, "sausages");
+    }
+  }
+
+  /**
+   * Fetches and parses NSE transcripts.
+   * @returns {Promise<void>} A promise that resolves when the transcripts are fetched and parsed.
+   */
+  async fetchAndParseNseTranscripts() {
+    this.#fetchAllNseTranscripts();
+    this.#parseAllNseTranscripts();
+  }
+
+  /**
+   * Fetches and parses sausage transcripts.
+   * @returns {Promise<void>} A promise that resolves when the fetching and parsing is complete.
+   */
+  async fetchAndParseSausageTranscripts() {
+    this.fetchAllSausageTranscripts();
+    this.parseAllSausageTranscripts();
   }
 }
 
-async function parseAllSausageTranscripts() {
-  for (const sausage of sausages) {
-    // skip removed videos
-    if ([415, 430].includes(sausage.id)) {
-      continue;
-    }
-
-    await parseTranscriptAndSaveToFile(sausage.id, "sausages");
-  }
-}
+const fetcher = new TranscriptFetcher();
+fetcher.fetchAllSausageTranscripts();
 
 // fetchAllSausageTranscripts();
-// fetchAllNseTranscripts();
-// parseAllNseTranscripts();
+
 // parseAllSausageTranscripts();
 
 // fetchTranscriptAndSaveToFile("OJal60m6XiY", 414, "./transcripts/raw/sausages/");
