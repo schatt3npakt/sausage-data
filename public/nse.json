@@ -1078,5 +1078,50 @@
     "episode": "Slim Jim Burger (NSE)",
     "episodeID": "E_BHTAjViIQ",
     "episodeLength": "01:30"
+  },
+  {
+    "id": 121,
+    "type": "Meat Wellington",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Meat Wellington (NSE)",
+    "episodeID": "ORmc52u84Kc",
+    "episodeLength": "01:17"
+  },
+  {
+    "id": 122,
+    "type": "Hot Dogger Shrimp",
+    "rating": "YES!",
+    "song": "- No Song -",
+    "episode": "Cooking Shrimp With Retro 120 Volt Hot Dogger (NSE)",
+    "episodeID": "OpaU1soqVd8",
+    "episodeLength": "02:45"
+  },
+  {
+    "id": 123,
+    "type": "Deep Frying an Avocado for an Hour",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying an Avocado for an Hour (NSE)",
+    "episodeID": "nEodqwqu0rk",
+    "episodeLength": "01:48"
+  },
+  {
+    "id": 124,
+    "type": "Hot Dogger Steak",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Electrocuting Steak with a Vintage Hot Dogger (NSE)",
+    "episodeID": "xJI8Wc5Xpfo",
+    "episodeLength": "02:02"
+  },
+  {
+    "id": 125,
+    "type": "Skittle Bay Biscuits",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Skittle Bay Biscuits (NSE)",
+    "episodeID": "icwvz8tkY2M",
+    "episodeLength": "01:52"
   }
 ]
