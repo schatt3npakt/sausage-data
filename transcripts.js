@@ -37,6 +37,13 @@ class TranscriptFetcher {
       if ([415, 430].includes(sausage.id)) {
         continue;
       }
+
+      // skip already downloaded transcript
+      const filePath = `./transcripts/raw/sausages/${sausage.id}.json`;
+      if (fs.existsSync(filePath)) {
+        continue;
+      }
+
       await this.#fetchTranscriptAndSaveToFile(
         sausage.episodeID,
         sausage.id,
@@ -57,6 +64,13 @@ class TranscriptFetcher {
       if ([12, 25, 97].includes(nse.id)) {
         continue;
       }
+
+      // skip already downloaded transcript
+      const filePath = `./transcripts/raw/nse/${nse.id}.json`;
+      if (fs.existsSync(filePath)) {
+        continue;
+      }
+
       await this.#fetchTranscriptAndSaveToFile(
         nse.episodeID,
         nse.id,
@@ -163,8 +177,8 @@ class TranscriptFetcher {
    * @returns {Promise<void>} A promise that resolves when the transcripts are fetched and parsed.
    */
   async fetchAndParseNseTranscripts() {
-    // this.#fetchAllNseTranscripts();
-    // this.#parseAllNseTranscripts();
+    this.#fetchAllNseTranscripts();
+    this.#parseAllNseTranscripts();
     this.#mergeTranscripts("nse");
   }
 
@@ -173,8 +187,8 @@ class TranscriptFetcher {
    * @returns {Promise<void>} A promise that resolves when the fetching and parsing is complete.
    */
   async fetchAndParseSausageTranscripts() {
-    // this.#fetchAllSausageTranscripts();
-    // this.#parseAllSausageTranscripts();
+    this.#fetchAllSausageTranscripts();
+    this.#parseAllSausageTranscripts();
     this.#mergeTranscripts("sausages");
   }
 }

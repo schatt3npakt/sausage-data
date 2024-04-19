@@ -6022,5 +6022,29 @@
     "episodeID": "OY1NCeIGNW4",
     "episodeType": "Standard",
     "episodeLength": "05:52"
+  },
+  {
+    "id": 503,
+    "type": "Sloppy Joe",
+    "rating": "2/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "I Just Wanna Fly",
+    "episode": "Mrs. Sausage Makes a Sausage 3: Sloppy Joesage",
+    "episodeID": "sppPGT5mEEs",
+    "episodeType": "Standard",
+    "episodeLength": "06:52"
+  },
+  {
+    "id": 504,
+    "type": "Momofuku Chili Crunch",
+    "rating": "1.5/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Hold On Tight",
+    "episode": "Momofuku Chili Crunch Sausage",
+    "episodeID": "iz5jvc1NKy4",
+    "episodeType": "Standard",
+    "episodeLength": "05:27"
   }
 ]
