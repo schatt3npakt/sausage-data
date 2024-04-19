@@ -139,7 +139,6 @@ class TranscriptFetcher {
    * @returns {Promise<void>} A promise that resolves when the files are read and merged into one JSON file.
    */
   async #mergeTranscripts(type) {
-    this.#mergeTranscripts(type);
     const path = "./transcripts/parsed/" + type + "/";
     const files = fs.readdirSync(path);
     let mergedData = {};
