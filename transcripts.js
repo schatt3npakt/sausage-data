@@ -1,12 +1,7 @@
 import { YoutubeTranscript } from "youtube-transcript";
 import fs from "fs";
-import sausages from "./sausages.json" assert { type: "json" };
-import nses from "./nse.json" assert { type: "json" };
-
-import { YoutubeTranscript } from "youtube-transcript";
-import fs from "fs";
-import sausages from "./sausages.json" assert { type: "json" };
-import nses from "./nse.json" assert { type: "json" };
+import sausages from "./public/sausages.json" assert { type: "json" };
+import nses from "./public/nse.json" assert { type: "json" };
 
 class TranscriptFetcher {
   /**
@@ -42,10 +37,10 @@ class TranscriptFetcher {
       if ([415, 430].includes(sausage.id)) {
         continue;
       }
-      await this.fetchTranscriptAndSaveToFile(
+      await this.#fetchTranscriptAndSaveToFile(
         sausage.episodeID,
         sausage.id,
-        "../transcripts/raw/sausages/"
+        "./transcripts/raw/sausages/"
       );
     }
   }
@@ -62,7 +57,7 @@ class TranscriptFetcher {
       if ([12, 25, 97].includes(nse.id)) {
         continue;
       }
-      await fetchTranscriptAndSaveToFile(
+      await this.#fetchTranscriptAndSaveToFile(
         nse.episodeID,
         nse.id,
         "./transcripts/raw/nse/"
@@ -119,7 +114,7 @@ class TranscriptFetcher {
       if ([12, 25, 97].includes(nse.id)) {
         continue;
       }
-      await parseTranscriptAndSaveToFile(nse.id, "nse");
+      await this.#parseTranscriptAndSaveToFile(nse.id, "nse");
     }
   }
 
@@ -135,8 +130,33 @@ class TranscriptFetcher {
         continue;
       }
 
-      await parseTranscriptAndSaveToFile(sausage.id, "sausages");
+      await this.#parseTranscriptAndSaveToFile(sausage.id, "sausages");
     }
+  }
+
+  /**
+   * Reads all JSON files in the transcripts/parsed/nse folder and writes them into one JSON file.
+   * @returns {Promise<void>} A promise that resolves when the files are read and merged into one JSON file.
+   */
+  async #mergeTranscripts(type) {
+    this.#mergeTranscripts(type);
+    const path = "./transcripts/parsed/" + type + "/";
+    const files = fs.readdirSync(path);
+    let mergedData = {};
+    for (const file of files) {
+      const data = fs.readFileSync(path + file, "utf-8");
+      const parsedData = JSON.parse(data);
+      const index = file.split(".")[0];
+      mergedData[index] = parsedData;
+    }
+    fs.writeFile(
+      "./transcripts/parsed/full/" + type + ".json",
+      JSON.stringify(mergedData, null, 2),
+      (err) => {
+        if (err) throw err;
+        console.log("Merged NSE transcripts have been saved!");
+      }
+    );
   }
 
   /**
@@ -144,8 +164,9 @@ class TranscriptFetcher {
    * @returns {Promise<void>} A promise that resolves when the transcripts are fetched and parsed.
    */
   async fetchAndParseNseTranscripts() {
-    this.#fetchAllNseTranscripts();
-    this.#parseAllNseTranscripts();
+    // this.#fetchAllNseTranscripts();
+    // this.#parseAllNseTranscripts();
+    this.#mergeTranscripts("nse");
   }
 
   /**
@@ -153,16 +174,12 @@ class TranscriptFetcher {
    * @returns {Promise<void>} A promise that resolves when the fetching and parsing is complete.
    */
   async fetchAndParseSausageTranscripts() {
-    this.fetchAllSausageTranscripts();
-    this.parseAllSausageTranscripts();
+    // this.#fetchAllSausageTranscripts();
+    // this.#parseAllSausageTranscripts();
+    this.#mergeTranscripts("sausages");
   }
 }
 
 const fetcher = new TranscriptFetcher();
-fetcher.fetchAllSausageTranscripts();
-
-// fetchAllSausageTranscripts();
-
-// parseAllSausageTranscripts();
-
-// fetchTranscriptAndSaveToFile("OJal60m6XiY", 414, "./transcripts/raw/sausages/");
+fetcher.fetchAndParseNseTranscripts();
+fetcher.fetchAndParseSausageTranscripts();
