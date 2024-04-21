@@ -164,7 +164,7 @@ class TranscriptFetcher {
       mergedData[index] = parsedData.replaceAll("&amp;#39;", "'");
     }
     fs.writeFile(
-      "./transcripts/parsed/full/" + type + ".json",
+      "./transcripts/parsed/full/" + type + "-transcript.json",
       JSON.stringify(mergedData, null, 2),
       (err) => {
         if (err) throw err;
@@ -191,31 +191,13 @@ class TranscriptFetcher {
     await this.#parseAllSausageTranscripts();
   }
 
-  mergeFullTranscripts() {
+  async mergeFullTranscripts() {
     this.#mergeTranscripts("sausages");
     this.#mergeTranscripts("nse");
-
-    fs.copyFile(
-      "./transcripts/parsed/full/nse.json",
-      "./public/nse-transcript.json",
-      (err) => {
-        if (err) throw err;
-        console.log("nse.json has been copied to ./public");
-      }
-    );
-
-    fs.copyFile(
-      "./transcripts/parsed/full/sausages.json",
-      "./public/sausages-transcript.json",
-      (err) => {
-        if (err) throw err;
-        console.log("sausages.json has been copied to ./public");
-      }
-    );
   }
 }
 
 const fetcher = new TranscriptFetcher();
 await fetcher.fetchAndParseNseTranscripts();
 await fetcher.fetchAndParseSausageTranscripts();
-fetcher.mergeFullTranscripts();
+await fetcher.mergeFullTranscripts();
