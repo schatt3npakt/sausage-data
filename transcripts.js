@@ -194,6 +194,24 @@ class TranscriptFetcher {
   mergeFullTranscripts() {
     this.#mergeTranscripts("sausages");
     this.#mergeTranscripts("nse");
+
+    fs.copyFile(
+      "./transcripts/parsed/full/nse.json",
+      "./public/nse-transcript.json",
+      (err) => {
+        if (err) throw err;
+        console.log("nse.json has been copied to ./public");
+      }
+    );
+
+    fs.copyFile(
+      "./transcripts/parsed/full/sausages.json",
+      "./public/sausages-transcript.json",
+      (err) => {
+        if (err) throw err;
+        console.log("sausages.json has been copied to ./public");
+      }
+    );
   }
 }
 
