@@ -12,6 +12,7 @@ class TranscriptFetcher {
    * @returns {Promise<void>} - A promise that resolves when the transcript has been saved.
    */
   async #fetchTranscriptAndSaveToFile(id, index, path) {
+    console.log(id, index, path);
     await YoutubeTranscript.fetchTranscript(id).then(
       async (fetchedTranscript) => {
         fs.writeFile(
@@ -40,7 +41,7 @@ class TranscriptFetcher {
 
       // skip already downloaded transcript
       const filePath = `./transcripts/raw/sausages/${sausage.id}.json`;
-      if (fs.existsSync(filePath)) {
+      if (await fs.existsSync(filePath)) {
         continue;
       }
 
@@ -67,7 +68,7 @@ class TranscriptFetcher {
 
       // skip already downloaded transcript
       const filePath = `./transcripts/raw/nse/${nse.id}.json`;
-      if (fs.existsSync(filePath)) {
+      if (await fs.existsSync(filePath)) {
         continue;
       }
 
@@ -128,6 +129,7 @@ class TranscriptFetcher {
       if ([12, 25, 97].includes(nse.id)) {
         continue;
       }
+
       await this.#parseTranscriptAndSaveToFile(nse.id, "nse");
     }
   }
@@ -143,6 +145,8 @@ class TranscriptFetcher {
       if ([415, 430].includes(sausage.id)) {
         continue;
       }
+
+      console.log("sausage: " + sausage.id);
 
       await this.#parseTranscriptAndSaveToFile(sausage.id, "sausages");
     }
@@ -177,8 +181,8 @@ class TranscriptFetcher {
    * @returns {Promise<void>} A promise that resolves when the transcripts are fetched and parsed.
    */
   async fetchAndParseNseTranscripts() {
-    this.#fetchAllNseTranscripts();
-    this.#parseAllNseTranscripts();
+    await this.#fetchAllNseTranscripts();
+    await this.#parseAllNseTranscripts();
     this.#mergeTranscripts("nse");
   }
 
@@ -187,12 +191,12 @@ class TranscriptFetcher {
    * @returns {Promise<void>} A promise that resolves when the fetching and parsing is complete.
    */
   async fetchAndParseSausageTranscripts() {
-    this.#fetchAllSausageTranscripts();
-    this.#parseAllSausageTranscripts();
+    await this.#fetchAllSausageTranscripts();
+    await this.#parseAllSausageTranscripts();
     this.#mergeTranscripts("sausages");
   }
 }
 
 const fetcher = new TranscriptFetcher();
-fetcher.fetchAndParseNseTranscripts();
-fetcher.fetchAndParseSausageTranscripts();
+await fetcher.fetchAndParseNseTranscripts();
+await fetcher.fetchAndParseSausageTranscripts();
