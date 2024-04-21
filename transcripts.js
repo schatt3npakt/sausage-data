@@ -12,7 +12,6 @@ class TranscriptFetcher {
    * @returns {Promise<void>} - A promise that resolves when the transcript has been saved.
    */
   async #fetchTranscriptAndSaveToFile(id, index, path) {
-    console.log(id, index, path);
     await YoutubeTranscript.fetchTranscript(id).then(
       async (fetchedTranscript) => {
         fs.writeFile(
@@ -146,8 +145,6 @@ class TranscriptFetcher {
         continue;
       }
 
-      console.log("sausage: " + sausage.id);
-
       await this.#parseTranscriptAndSaveToFile(sausage.id, "sausages");
     }
   }
@@ -164,7 +161,7 @@ class TranscriptFetcher {
       const data = fs.readFileSync(path + file, "utf-8");
       const parsedData = JSON.parse(data);
       const index = file.split(".")[0];
-      mergedData[index] = parsedData;
+      mergedData[index] = parsedData.replaceAll("&amp;#39;", "'");
     }
     fs.writeFile(
       "./transcripts/parsed/full/" + type + ".json",
@@ -183,7 +180,6 @@ class TranscriptFetcher {
   async fetchAndParseNseTranscripts() {
     await this.#fetchAllNseTranscripts();
     await this.#parseAllNseTranscripts();
-    this.#mergeTranscripts("nse");
   }
 
   /**
@@ -193,10 +189,15 @@ class TranscriptFetcher {
   async fetchAndParseSausageTranscripts() {
     await this.#fetchAllSausageTranscripts();
     await this.#parseAllSausageTranscripts();
+  }
+
+  mergeFullTranscripts() {
     this.#mergeTranscripts("sausages");
+    this.#mergeTranscripts("nse");
   }
 }
 
 const fetcher = new TranscriptFetcher();
 await fetcher.fetchAndParseNseTranscripts();
 await fetcher.fetchAndParseSausageTranscripts();
+fetcher.mergeFullTranscripts();
