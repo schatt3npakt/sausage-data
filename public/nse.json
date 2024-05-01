@@ -1132,5 +1132,23 @@
     "episode": "Deep Fried Bubble Gum (NSE)",
     "episodeID": "H9JVVNCa1XA",
     "episodeLength": "01:42"
+  },
+  {
+    "id": 127,
+    "type": "Sous Vide Doritos Steak",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Sous Vide Doritos Steak (NSE)",
+    "episodeID": "cLqptbAwWUg",
+    "episodeLength": "01:09"
+  },
+  {
+    "id": 128,
+    "type": "Rehydreated Steak",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Rehydreated Steak (NSE)",
+    "episodeID": "AOPxh-BEouE",
+    "episodeLength": "01:30"
   }
 ]

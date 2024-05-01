@@ -6046,5 +6046,17 @@
     "episodeID": "iz5jvc1NKy4",
     "episodeType": "Standard",
     "episodeLength": "05:27"
+  },
+  {
+    "id": 505,
+    "type": "Caffeine",
+    "rating": "0/5",
+    "dibl": "0/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Shine",
+    "episode": "Caffeine Sausage",
+    "episodeID": "4ktNHFn_eRI",
+    "episodeType": "Standard",
+    "episodeLength": "04:21"
   }
 ]
