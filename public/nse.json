@@ -1150,5 +1150,23 @@
     "episode": "Rehydrated Steak (NSE)",
     "episodeID": "AOPxh-BEouE",
     "episodeLength": "01:30"
+  },
+  {
+    "id": 129,
+    "type": "Beef Jerky Fried Chicken",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Beef Jerky Fried Chicken (NSE)",
+    "episodeID": "41AFeignQ4Q",
+    "episodeLength": "01:30"
+  },
+  {
+    "id": 130,
+    "type": "Clamato Steak",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Clamato Steak (NSE)",
+    "episodeID": "eoN0LM8mag",
+    "episodeLength": "01:39"
   }
 ]
