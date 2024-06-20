@@ -1177,5 +1177,32 @@
     "episode": "SlimFast Pork Chop (NSE)",
     "episodeID": "El2lyMYSNJg",
     "episodeLength": "01:58"
+  },
+  {
+    "id": 132,
+    "type": "KFC Soup",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "KFC Soup (NSE)",
+    "episodeID": "SGriO6cHpDI",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 133,
+    "type": "Deep-Fried Skittles",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Deep-Fried Skittles (NSE)",
+    "episodeID": "LHPhtGMONbM",
+    "episodeLength": "01:36"
+  },
+  {
+    "id": 134,
+    "type": "Deep Fried Tacos",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Tacos (NSE)",
+    "episodeID": "REUTSvojSyI",
+    "episodeLength": "01:296"
   }
 ]
