@@ -1203,6 +1203,69 @@
     "song": "- No Song -",
     "episode": "Deep Fried Tacos (NSE)",
     "episodeID": "REUTSvojSyI",
-    "episodeLength": "01:296"
+    "episodeLength": "01:29"
+  },
+  {
+    "id": 135,
+    "type": "Deep Fryed Lobster Tail",
+    "rating": "DQ'ed",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Lobster Tail for an Hour (NSE)",
+    "episodeID": "BHk1w69cutw",
+    "episodeLength": "01:11"
+  },
+  {
+    "id": 136,
+    "type": "Lobster Popsicle",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Lobster Popsicle (NSE)",
+    "episodeID": "szsQA0LnNIY",
+    "episodeLength": "02:04"
+  },
+  {
+    "id": 136,
+    "type": "Lobster Boiled in Maple Syrup",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Lobster Boiled in Maple Syrup",
+    "episodeID": "OHf7q3RkP2I",
+    "episodeLength": "01:14"
+  },
+  {
+    "id": 137,
+    "type": "Zero Carb Powdered Egg Fried Chicken",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Zero Carb Powdered Egg Fried Chicken (NSE)",
+    "episodeID": "dlbzQwjP94I",
+    "episodeLength": "01:15"
+  },
+  {
+    "id": 138,
+    "type": "Hot Dog Bacon",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Is it Any Good? Hot Dog Bacon!",
+    "episodeID": "tIpdhX4AAnY",
+    "episodeLength": "01:10"
+  },
+  {
+    "id": 139,
+    "type": "Crab Legs Boiled in Mountain Dew",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Crab Legs Boiled in Mountain Dew (NSE)",
+    "episodeID": "WTlGOlNXT4g",
+    "episodeLength": "01:17"
+  },
+  {
+    "id": 140,
+    "type": "McDonald's $5 Meal Soup",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "McDonald's $5 Meal Soup (NSE)",
+    "episodeID": "fU6II3qB-wc",
+    "episodeLength": "01:05"
   }
 ]

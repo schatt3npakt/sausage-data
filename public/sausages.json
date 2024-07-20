@@ -6142,5 +6142,65 @@
     "episodeID": "q1UyilXIzrU",
     "episodeType": "Standard",
     "episodeLength": "05:16"
+  },
+  {
+    "id": 513,
+    "type": "Biscuits and Gravy",
+    "rating": "4/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Feed the Birds",
+    "episode": "Biscuits and Gravy Sausage",
+    "episodeID": "64pVuSk8l9M",
+    "episodeType": "Standard",
+    "episodeLength": "03:56"
+  },
+  {
+    "id": 514,
+    "type": "Pete's Boiled Hamburgers",
+    "rating": "4/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "These Eyes",
+    "episode": "Pete's Boiled Hamburgers Sausage",
+    "episodeID": "3WtaRE5JlS8",
+    "episodeType": "Standard",
+    "episodeLength": "04:55"
+  },
+  {
+    "id": 515,
+    "type": "Crunch of Doom",
+    "rating": "5/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "My Way",
+    "episode": "Crunch of Doom Sausage",
+    "episodeID": "RoW9ezrHkLc",
+    "episodeType": "Standard",
+    "episodeLength": "05:44"
+  },
+  {
+    "id": 516,
+    "type": "Martini",
+    "rating": "3.5/5",
+    "dibl": "4/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "La Vida Loca",
+    "episode": "Martini Sausage",
+    "episodeID": "K7jWZS8cMFw",
+    "episodeType": "Standard",
+    "episodeLength": "04:25"
+  },
+  {
+    "id": 517,
+    "type": "Weird Al UHF Twinkie Wiener Sandwich",
+    "rating": "3/5",
+    "dibl": "4/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Hey There Delilah",
+    "episode": "Weird Al UHF Twinkie Wiener Sandwich Sausage",
+    "episodeID": "aymEkmAGRbc",
+    "episodeType": "Standard",
+    "episodeLength": "04:10"
   }
 ]
