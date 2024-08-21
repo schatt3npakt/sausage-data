@@ -92,7 +92,7 @@
   {
     "id": 11,
     "type": "Chicken Boiled in Honey",
-    "rating": 0,
+    "rating": "NO!",
     "song": "- No Song -",
     "episode": "Chicken Boiled in Honey (NSE)",
     "episodeID": "5aiybtTwHh8",
@@ -1091,7 +1091,7 @@
   {
     "id": 122,
     "type": "Hot Dogger Shrimp",
-    "rating": 5,
+    "rating": "YES!",
     "song": "- No Song -",
     "episode": "Cooking Shrimp With Retro 120 Volt Hot Dogger (NSE)",
     "episodeID": "OpaU1soqVd8",
@@ -1141,5 +1141,212 @@
     "episode": "Sous Vide Doritos Steak (NSE)",
     "episodeID": "cLqptbAwWUg",
     "episodeLength": "01:09"
+  },
+  {
+    "id": 128,
+    "type": "Rehydrated Steak",
+    "rating": 3,
+    "song": "- No Song -",
+    "episode": "Rehydrated Steak (NSE)",
+    "episodeID": "AOPxh-BEouE",
+    "episodeLength": "01:30"
+  },
+  {
+    "id": 129,
+    "type": "Beef Jerky Fried Chicken",
+    "rating": 5,
+    "song": "- No Song -",
+    "episode": "Beef Jerky Fried Chicken (NSE)",
+    "episodeID": "41AFeignQ4Q",
+    "episodeLength": "01:30"
+  },
+  {
+    "id": 130,
+    "type": "Clamato Steak",
+    "rating": 5,
+    "song": "- No Song -",
+    "episode": "Clamato Steak (NSE)",
+    "episodeID": "eoN0LM8mag",
+    "episodeLength": "01:39"
+  },
+  {
+    "id": 131,
+    "type": "SlimFast Pork Chop",
+    "rating": 0,
+    "song": "- No Song -",
+    "episode": "SlimFast Pork Chop (NSE)",
+    "episodeID": "El2lyMYSNJg",
+    "episodeLength": "01:58"
+  },
+  {
+    "id": 132,
+    "type": "KFC Soup",
+    "rating": 4,
+    "song": "- No Song -",
+    "episode": "KFC Soup (NSE)",
+    "episodeID": "SGriO6cHpDI",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 133,
+    "type": "Deep-Fried Skittles",
+    "rating": 5,
+    "song": "- No Song -",
+    "episode": "Deep-Fried Skittles (NSE)",
+    "episodeID": "LHPhtGMONbM",
+    "episodeLength": "01:36"
+  },
+  {
+    "id": 134,
+    "type": "Deep Fried Tacos",
+    "rating": 5,
+    "song": "- No Song -",
+    "episode": "Deep Fried Tacos (NSE)",
+    "episodeID": "REUTSvojSyI",
+    "episodeLength": "01:29"
+  },
+  {
+    "id": 135,
+    "type": "Deep Fryed Lobster Tail",
+    "rating": "DQ'ed",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Lobster Tail for an Hour (NSE)",
+    "episodeID": "BHk1w69cutw",
+    "episodeLength": "01:11"
+  },
+  {
+    "id": 136,
+    "type": "Lobster Popsicle",
+    "rating": 1,
+    "song": "- No Song -",
+    "episode": "Lobster Popsicle (NSE)",
+    "episodeID": "szsQA0LnNIY",
+    "episodeLength": "02:04"
+  },
+  {
+    "id": 137,
+    "type": "Lobster Boiled in Maple Syrup",
+    "rating": 5,
+    "song": "- No Song -",
+    "episode": "Lobster Boiled in Maple Syrup",
+    "episodeID": "OHf7q3RkP2I",
+    "episodeLength": "01:14"
+  },
+  {
+    "id": 138,
+    "type": "Zero Carb Powdered Egg Fried Chicken",
+    "rating": 3,
+    "song": "- No Song -",
+    "episode": "Zero Carb Powdered Egg Fried Chicken (NSE)",
+    "episodeID": "dlbzQwjP94I",
+    "episodeLength": "01:15"
+  },
+  {
+    "id": 139,
+    "type": "Hot Dog Bacon",
+    "rating": 4,
+    "song": "- No Song -",
+    "episode": "Is it Any Good? Hot Dog Bacon!",
+    "episodeID": "tIpdhX4AAnY",
+    "episodeLength": "01:10"
+  },
+  {
+    "id": 140,
+    "type": "Crab Legs Boiled in Mountain Dew",
+    "rating": 3,
+    "song": "- No Song -",
+    "episode": "Crab Legs Boiled in Mountain Dew (NSE)",
+    "episodeID": "WTlGOlNXT4g",
+    "episodeLength": "01:17"
+  },
+  {
+    "id": 141,
+    "type": "McDonald's $5 Meal Soup",
+    "rating": 1,
+    "song": "- No Song -",
+    "episode": "McDonald's $5 Meal Soup (NSE)",
+    "episodeID": "fU6II3qB-wc",
+    "episodeLength": "01:05"
+  },
+  {
+    "id": 142,
+    "type": "Deep Fried Leftover Chinese Beef and Broccoli Cube",
+    "rating": 4,
+    "song": "- No Song -",
+    "episode": "Deep Fried Leftover Chinese Beef and Broccoli Cube (NSE)",
+    "episodeID": "dCnkgE3ZQOg",
+    "episodeLength": "01:13"
+  },
+  {
+    "id": 143,
+    "type": "Taco Bell $7 Luxe Box Soup",
+    "rating": 5,
+    "song": "- No Song -",
+    "episode": "Taco Bell $7 Luxe Box Soup (NSE)",
+    "episodeID": "wMd11H3IkpE",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 144,
+    "type": "S'more Stuffed Steak",
+    "rating": 1,
+    "song": "- No Song -",
+    "episode": "S'more Stuffed Steak (NSE) [Extreme Echo Edition]",
+    "episodeID": "T2pf6IsF6aA",
+    "episodeLength": "01:33"
+  },
+  {
+    "id": 145,
+    "type": "Deep Fried Cookie Dough",
+    "rating": "DQ'ed",
+    "song": "- No Song -",
+    "episode": "Deep Fried Cookie Dough (NSE)",
+    "episodeID": "b3CdpxPqWhQ",
+    "episodeLength": "01:47"
+  },
+  {
+    "id": 146,
+    "type": "Mega Hot Dog",
+    "rating": 4,
+    "song": "- No Song -",
+    "episode": "Mega Hot Dog (NSE)",
+    "episodeID": "r4ibixHcA2c",
+    "episodeLength": "02:00"
+  },
+  {
+    "id": 147,
+    "type": "Spaghetti Boiled in Italian Dressing",
+    "rating": 1,
+    "song": "- No Song -",
+    "episode": "Spaghetti Boiled in Italian Dressing (NSE)",
+    "episodeID": "lYRTUUaWKFo",
+    "episodeLength": "01:08"
+  },
+  {
+    "id": 148,
+    "type": "My Entire Lunch Boiled in Mountain Dew Code Red",
+    "rating": 1.5,
+    "song": "- No Song -",
+    "episode": "My Entire Lunch Boiled in Mountain Dew Code Red (NSE)",
+    "episodeID": "V2o2PuB6vEQ",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 149,
+    "type": "Coffee Filter Steak",
+    "rating": 0.5,
+    "song": "- No Song -",
+    "episode": "Coffee Filter Steak (NSE)",
+    "episodeID": "bepZ5CvzNaQ",
+    "episodeLength": "01:36"
+  },
+  {
+    "id": 150,
+    "type": "Microwaved Apple",
+    "rating": "DQ'ed",
+    "song": "- No Song -",
+    "episode": "Microwaved Apple (NSE)",
+    "episodeID": "PyYdGNhxluY",
+    "episodeLength": "01:30"
   }
 ]
