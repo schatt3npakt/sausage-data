@@ -6202,5 +6202,77 @@
     "episodeID": "aymEkmAGRbc",
     "episodeType": "Standard",
     "episodeLength": "04:10"
+  },
+  {
+    "id": 518,
+    "type": "Tiger Skin Chicken Feet",
+    "rating": "5/5",
+    "dibl": "5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Crazy World",
+    "episode": "Tiger Skin Chicken Feet Sausage",
+    "episodeID": "P4quUqmFS-4",
+    "episodeType": "Standard",
+    "episodeLength": "06:23"
+  },
+  {
+    "id": 519,
+    "type": "Tiger Skin Chicken Feet",
+    "rating": "5/5",
+    "dibl": "5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Crazy World",
+    "episode": "Tiger Skin Chicken Feet Sausage",
+    "episodeID": "P4quUqmFS-4",
+    "episodeType": "Standard",
+    "episodeLength": "06:23"
+  },
+  {
+    "id": 520,
+    "type": "Chicken Soup",
+    "rating": "4/5",
+    "dibl": "Not Done",
+    "dibu": 0,
+    "song": "- No Song -",
+    "episode": "Sausage Speed Run: Chicken Soup Sausage",
+    "episodeID": "xp317V5euwk",
+    "episodeType": "Standard",
+    "episodeLength": "01:00"
+  },
+  {
+    "id": 521,
+    "type": "Meat Glue",
+    "rating": "3.5/5",
+    "dibl": "0.5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "WKRP in Cincinnati",
+    "episode": "Meat Glue Sausage",
+    "episodeID": "I_6fCamLluU",
+    "episodeType": "Standard",
+    "episodeLength": "06:06"
+  },
+  {
+    "id": 522,
+    "type": "Seaweed Caviar",
+    "rating": "1/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Funkytown",
+    "episode": "Seaweed Caviar Sausage",
+    "episodeID": "MH0A9shs1Jc",
+    "episodeType": "Standard",
+    "episodeLength": "05:27"
+  },
+  {
+    "id": 523,
+    "type": "Carolina Reaper Peanuts",
+    "rating": "1/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "On The Road Again",
+    "episode": "Carolina Reaper Peanuts Sausage",
+    "episodeID": "bEYTRJ-gSyM",
+    "episodeType": "Standard",
+    "episodeLength": "05:41"
   }
 ]

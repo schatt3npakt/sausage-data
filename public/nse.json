@@ -1267,5 +1267,86 @@
     "episode": "McDonald's $5 Meal Soup (NSE)",
     "episodeID": "fU6II3qB-wc",
     "episodeLength": "01:05"
+  },
+  {
+    "id": 142,
+    "type": "Deep Fried Leftover Chinese Beef and Broccoli Cube",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Leftover Chinese Beef and Broccoli Cube (NSE)",
+    "episodeID": "dCnkgE3ZQOg",
+    "episodeLength": "01:13"
+  },
+  {
+    "id": 143,
+    "type": "Taco Bell $7 Luxe Box Soup",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Taco Bell $7 Luxe Box Soup (NSE)",
+    "episodeID": "wMd11H3IkpE",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 144,
+    "type": "S'more Stuffed Steak",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "S'more Stuffed Steak (NSE) [Extreme Echo Edition]",
+    "episodeID": "T2pf6IsF6aA",
+    "episodeLength": "01:33"
+  },
+  {
+    "id": 145,
+    "type": "Deep Fried Cookie Dough",
+    "rating": "DQ'ed",
+    "song": "- No Song -",
+    "episode": "Deep Fried Cookie Dough (NSE)",
+    "episodeID": "b3CdpxPqWhQ",
+    "episodeLength": "01:47"
+  },
+  {
+    "id": 146,
+    "type": "Mega Hot Dog",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Mega Hot Dog (NSE)",
+    "episodeID": "r4ibixHcA2c",
+    "episodeLength": "02:00"
+  },
+  {
+    "id": 147,
+    "type": "Spaghetti Boiled in Italian Dressing",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Spaghetti Boiled in Italian Dressing (NSE)",
+    "episodeID": "lYRTUUaWKFo",
+    "episodeLength": "01:08"
+  },
+  {
+    "id": 148,
+    "type": "My Entire Lunch Boiled in Mountain Dew Code Red",
+    "rating": "1.5/5",
+    "song": "- No Song -",
+    "episode": "My Entire Lunch Boiled in Mountain Dew Code Red (NSE)",
+    "episodeID": "V2o2PuB6vEQ",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 149,
+    "type": "Coffee Filter Steak",
+    "rating": "0.5/5",
+    "song": "- No Song -",
+    "episode": "Coffee Filter Steak (NSE)",
+    "episodeID": "bepZ5CvzNaQ",
+    "episodeLength": "01:36"
+  },
+  {
+    "id": 150,
+    "type": "Microwaved Apple",
+    "rating": "DQ'ed",
+    "song": "- No Song -",
+    "episode": "Microwaved Apple (NSE)",
+    "episodeID": "PyYdGNhxluY",
+    "episodeLength": "01:30"
   }
 ]
