@@ -6274,5 +6274,41 @@
     "episodeID": "bEYTRJ-gSyM",
     "episodeType": "Standard",
     "episodeLength": "05:41"
+  },
+  {
+    "id": 524,
+    "type": "Mexican Chorizo",
+    "rating": "5/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Memory",
+    "episode": "Mexican Chorizo Sausage",
+    "episodeID": "nnCxEHD0JJo",
+    "episodeType": "Standard",
+    "episodeLength": "04:58"
+  },
+  {
+    "id": 525,
+    "type": "Toilet Paper",
+    "rating": "0.5/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Unknown Song",
+    "episode": "Toilet Paper Sausage",
+    "episodeID": "5bIFBZYJCfg",
+    "episodeType": "Standard",
+    "episodeLength": "03:01"
+  },
+  {
+    "id": 526,
+    "type": "Buffalo Chicken Dip",
+    "rating": "0.5/5",
+    "dibl": "2/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Every Morning",
+    "episode": "Buffalo Chicken Dip Sausage",
+    "episodeID": "Lhj1NspiPaY",
+    "episodeType": "Standard",
+    "episodeLength": "03:35"
   }
 ]

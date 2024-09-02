@@ -1348,5 +1348,23 @@
     "episode": "Microwaved Apple (NSE)",
     "episodeID": "PyYdGNhxluY",
     "episodeLength": "01:30"
+  },
+  {
+    "id": 151,
+    "type": "Waffled Chicago Hot Dog",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Waffled Chicago Hot Dog (NSE?)",
+    "episodeID": "LhgE9KSotnI",
+    "episodeLength": "02:05"
+  },
+  {
+    "id": 152,
+    "type": "Arby's Beef 'N Cheddar Soup",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Arby's Beef 'N Cheddar Soup (NSE)",
+    "episodeID": "Zn2onyDoS6c",
+    "episodeLength": "01:40"
   }
 ]
