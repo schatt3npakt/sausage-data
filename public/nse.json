@@ -1366,5 +1366,23 @@
     "episode": "Arby's Beef 'N Cheddar Soup (NSE)",
     "episodeID": "Zn2onyDoS6c",
     "episodeLength": "01:40"
+  },
+  {
+    "id": 153,
+    "type": "Deep Frying Artichoke for an Hour",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying Artichoke for an Hour (NSE)",
+    "episodeID": "LPqnP7yj7mk",
+    "episodeLength": "01:55"
+  },
+  {
+    "id": 154,
+    "type": "Steak Boiled in Jolly Ranchers",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Jolly Ranchers (NSE)",
+    "episodeID": "IP7Uomov-Kc",
+    "episodeLength": "01:08"
   }
 ]

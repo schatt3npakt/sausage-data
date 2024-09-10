@@ -6310,5 +6310,29 @@
     "episodeID": "Lhj1NspiPaY",
     "episodeType": "Standard",
     "episodeLength": "03:35"
+  },
+  {
+    "id": 527,
+    "type": "Sai Ua",
+    "rating": "0.5/5",
+    "dibl": "2.5/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Dance Monkey",
+    "episode": "Sai Ua Sausage of Northern Thailand",
+    "episodeID": "zwvLMBVXZcg",
+    "episodeType": "Standard",
+    "episodeLength": "06:51"
+  },
+  {
+    "id": 528,
+    "type": "Sausage Hand",
+    "rating": "4/5",
+    "dibl": "- Not Done -",
+    "dibu": 0,
+    "song": "- No Song -",
+    "episode": "Sausage Hand",
+    "episodeID": "E95vM7TLgmc",
+    "episodeType": "Standard",
+    "episodeLength": "01:02"
   }
 ]
