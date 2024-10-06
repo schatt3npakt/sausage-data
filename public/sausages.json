@@ -6334,5 +6334,77 @@
     "episodeID": "E95vM7TLgmc",
     "episodeType": "Standard",
     "episodeLength": "01:02"
+  },
+  {
+    "id": 529,
+    "type": "Chicken Jelly Belly",
+    "rating": "1/5",
+    "dibl": "4/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Lick It Up",
+    "episode": "Chicken Jelly Belly Sausage",
+    "episodeID": "Eg106GcJgGc",
+    "episodeType": "Standard",
+    "episodeLength": "04:44"
+  },
+  {
+    "id": 530,
+    "type": "Snail Noodle Soup",
+    "rating": "3.5/5",
+    "dibl": "5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Unknown Song",
+    "episode": "Snail Noodle Soup Sausage",
+    "episodeID": "6iyBn1_3O7o",
+    "episodeType": "Standard",
+    "episodeLength": "05:50"
+  },
+  {
+    "id": 531,
+    "type": "Dry Iceage",
+    "rating": "0/5",
+    "dibl": "Not Done",
+    "dibu": 0,
+    "song": "Creep",
+    "episode": "Snail Noodle Soup Sausage",
+    "episodeID": "eOYE6acGcR8",
+    "episodeType": "Standard",
+    "episodeLength": "01:39"
+  },
+  {
+    "id": 532,
+    "type": "Cajun Andouille",
+    "rating": "4/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Sunshine on My Shoulders",
+    "episode": "Cajun Andouille Sausage",
+    "episodeID": "hymBFQcK3b0",
+    "episodeType": "Standard",
+    "episodeLength": "04:53"
+  },
+  {
+    "id": 533,
+    "type": "Sausage Skull",
+    "rating": "4/5",
+    "dibl": "- Not Done -",
+    "dibu": 0,
+    "song": "- No Song -",
+    "episode": "Sausage Skull",
+    "episodeID": "bu5MEIOi_Vc",
+    "episodeType": "Standard",
+    "episodeLength": "01:06"
+  },
+  {
+    "id": 534,
+    "type": "An Entire Bottle of Pure Vanilla Extract",
+    "rating": "0/5",
+    "dibl": "4/5 Mark Buffalos",
+    "dibu": 0,
+    "song": "Light & Day",
+    "episode": "An Entire Bottle of Pure Vanilla Extract Sausage",
+    "episodeID": "OTPs_pZa5d4",
+    "episodeType": "Standard",
+    "episodeLength": "06:04"
   }
 ]

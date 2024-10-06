@@ -1384,5 +1384,50 @@
     "episode": "Steak Boiled in Jolly Ranchers (NSE)",
     "episodeID": "IP7Uomov-Kc",
     "episodeLength": "01:08"
+  },
+  {
+    "id": 155,
+    "type": "Panda Express Orange Chicken Milkshake",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Panda Express Orange Chicken Milkshake",
+    "episodeID": "4lsWt-V0tJI",
+    "episodeLength": "01:08"
+  },
+  {
+    "id": 156,
+    "type": "Deep Fried Cheetos",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Cheetos (NSE)",
+    "episodeID": "hM9elPlCcdE",
+    "episodeLength": "01:27"
+  },
+  {
+    "id": 157,
+    "type": "Boiled Watermelon",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Reddit Comment Suggestions: Boiled Watermelon",
+    "episodeID": "Z4W1b-e2n_U",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 158,
+    "type": "Lobster Tail Boiled in Baked Beans",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Lobster Tail Boiled in Baked Beans",
+    "episodeID": "7Sb7gnVrL2A",
+    "episodeLength": "01:16"
+  },
+  {
+    "id": 159,
+    "type": "Avocado Steak",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Avocado Steak (NSE)",
+    "episodeID": "juR7cK_24nA",
+    "episodeLength": "01:16"
   }
 ]
