@@ -1429,5 +1429,59 @@
     "episode": "Avocado Steak (NSE)",
     "episodeID": "juR7cK_24nA",
     "episodeLength": "01:16"
+  },
+  {
+    "id": 160,
+    "type": "Jello SpaghettiOs Mold",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Jello SpaghettiOs Mold: Is It Any Good?",
+    "episodeID": "L_4NFIZJdVA",
+    "episodeLength": "01:08"
+  },
+  {
+    "id": 161,
+    "type": "Liquid Smoke Milkshake",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Liquid Smoke Milkshake aka How to Lose Friends and Family at Your Next BBQ (NSE)",
+    "episodeID": "7VpJy0Qif7I",
+    "episodeLength": "01:11"
+  },
+  {
+    "id": 162,
+    "type": "Deep Frying a Pumpkin for an Hour",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Frying a Pumpkin for an Hour (NSE)",
+    "episodeID": "N68WqzoTuZI",
+    "episodeLength": "01:52"
+  },
+  {
+    "id": 163,
+    "type": "Drinkable Sausage",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Drinkable Sausage",
+    "episodeID": "kt3Ij7rpKIQ",
+    "episodeLength": "01:19"
+  },
+  {
+    "id": 164,
+    "type": "Drinkable Sausage",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Hairdryer Steak",
+    "episodeID": "s0SCcFHNYS0",
+    "episodeLength": "01:31"
+  },
+  {
+    "id": 165,
+    "type": "Sausage Ice Cream",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Sausage Ice Cream (NSE)",
+    "episodeID": "VcQ0lm70N3I",
+    "episodeLength": "01:24"
   }
 ]

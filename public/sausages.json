@@ -6406,5 +6406,41 @@
     "episodeID": "OTPs_pZa5d4",
     "episodeType": "Standard",
     "episodeLength": "06:04"
+  },
+  {
+    "id": 535,
+    "type": "OREO Coke Coke OREO",
+    "rating": "1/5",
+    "dibl": "5/5 Mark Buffalos",
+    "dibu": 0,
+    "song": "Sexual Healing",
+    "episode": "OREO Coke Coke OREO Sausage",
+    "episodeID": "lcJpv14Fc4k",
+    "episodeType": "Standard",
+    "episodeLength": "05:07"
+  },
+  {
+    "id": 536,
+    "type": "German Fischbrötchen",
+    "rating": "4/5",
+    "dibl": "2/5 Mark Buffalos",
+    "dibu": 1,
+    "song": "99 Luftballons",
+    "episode": "German Fischbrötchen Sausage",
+    "episodeID": "4ifP6T0d_40",
+    "episodeType": "Standard",
+    "episodeLength": "04:22"
+  },
+  {
+    "id": 537,
+    "type": "Dog Treats",
+    "rating": "0/5",
+    "dibl": "2/5 Mark Buffalos",
+    "dibu": 1,
+    "song": "- Unknown Song -",
+    "episode": "Dog Treats Sausage",
+    "episodeID": "OzDMvKK0ciQ",
+    "episodeType": "Standard",
+    "episodeLength": "05:26"
   }
 ]
