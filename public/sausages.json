@@ -6442,5 +6442,29 @@
     "episodeID": "OzDMvKK0ciQ",
     "episodeType": "Standard",
     "episodeLength": "05:26"
+  },
+  {
+    "id": 538,
+    "type": "Jackfruit",
+    "rating": "2.5/5",
+    "dibl": "2/5 Mark Buffalos",
+    "dibu": 0,
+    "song": "9 to 5",
+    "episode": "Jackfruit Sausage",
+    "episodeID": "sGa4F8vIMKw",
+    "episodeType": "Standard",
+    "episodeLength": "03:21"
+  },
+  {
+    "id": 539,
+    "type": "Pickle Cotton Candy",
+    "rating": "0/5",
+    "dibl": "3/5 Mark Buffalos",
+    "dibu": 0,
+    "song": "Raindrops Keep Falling On My Head",
+    "episode": "Pickle Cotton Candy Sausage",
+    "episodeID": "r6ogHuUQZp8",
+    "episodeType": "Standard",
+    "episodeLength": "04:46"
   }
 ]

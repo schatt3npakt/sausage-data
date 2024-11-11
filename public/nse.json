@@ -1483,5 +1483,41 @@
     "episode": "Sausage Ice Cream (NSE)",
     "episodeID": "VcQ0lm70N3I",
     "episodeLength": "01:24"
+  },
+  {
+    "id": 166,
+    "type": "Aloe Vera Noodles",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Aloe Vera Noodles (NSE)",
+    "episodeID": "SDtiBq4WNcQ",
+    "episodeLength": "01:06"
+  },
+  {
+    "id": 167,
+    "type": "Deep Fried Log of Cookie Dough",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Log of Cookie Dough Volume II (NSE)",
+    "episodeID": "lUt9Ed-lWqA",
+    "episodeLength": "01:31"
+  },
+  {
+    "id": 168,
+    "type": "Frozen Pizza Spaghetti Sauce",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Frozen Pizza Spaghetti Sauce (NSE)",
+    "episodeID": "43XJ7C1pvUY",
+    "episodeLength": "01:32"
+  },
+  {
+    "id": 169,
+    "type": "Black Liquorice Steak",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Black Licorice (NSE)",
+    "episodeID": "zOkrMFFiJ3k",
+    "episodeLength": "01:00"
   }
 ]
