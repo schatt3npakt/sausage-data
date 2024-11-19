@@ -1519,5 +1519,23 @@
     "episode": "Steak Boiled in Black Licorice (NSE)",
     "episodeID": "zOkrMFFiJ3k",
     "episodeLength": "01:00"
+  },
+  {
+    "id": 170,
+    "type": "Chicken Orb",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Chicken Orb",
+    "episodeID": "XKDOeyTvzNI",
+    "episodeLength": "01:59"
+  },
+  {
+    "id": 171,
+    "type": "Anchovy Ice Cream",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Anchovy Ice Cream",
+    "episodeID": "lrbhB973brM",
+    "episodeLength": "01:45"
   }
 ]
