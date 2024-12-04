@@ -1537,5 +1537,50 @@
     "episode": "Anchovy Ice Cream",
     "episodeID": "lrbhB973brM",
     "episodeLength": "01:45"
+  },
+  {
+    "id": 172,
+    "type": "Louisiana Hot Sauce Hard Boiled Eggs",
+    "rating": "0/5",
+    "song": "Total Eclipse Of The Heart",
+    "episode": "Louisiana Hot Sauce Hard Boiled Eggs",
+    "episodeID": "FdFUsSyk4b0",
+    "episodeLength": "01:33"
+  },
+  {
+    "id": 173,
+    "type": "Dehydrated Bowl of Cereal",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Dehydrating a Bowl of Cereal for 24 Hours",
+    "episodeID": "2Y1vhKWTBxk",
+    "episodeLength": "01:33"
+  },
+  {
+    "id": 174,
+    "type": "Steak Boiled in Clarified Butter",
+    "rating": "6/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Clarified Butter",
+    "episodeID": "rP2TFESQmhw",
+    "episodeLength": "01:37"
+  },
+  {
+    "id": 175,
+    "type": "Deep Fried Cat Food",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Cat Food",
+    "episodeID": "Z8H9tV2eyWk",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 176,
+    "type": "Pop-Tart BLT",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Pop-Tart BLT",
+    "episodeID": "MXNdm4gd3EY",
+    "episodeLength": "01:33"
   }
 ]

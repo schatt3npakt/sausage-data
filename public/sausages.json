@@ -6478,5 +6478,29 @@
     "episodeID": "icEWmAwdgCo",
     "episodeType": "Standard",
     "episodeLength": "05:54"
+  },
+  {
+    "id": 541,
+    "type": "Olde Timey Mushroom Ketchup Sausage",
+    "rating": "1/5",
+    "dibl": "0/5 Mark Buffalos",
+    "dibu": 0,
+    "song": "Too Shy",
+    "episode": "Your Grandpappy's Olde Timey Mushroom Ketchup Sausage",
+    "episodeID": "J85fiwBfpGQ",
+    "episodeType": "Standard",
+    "episodeLength": "05:30"
+  },
+  {
+    "id": 542,
+    "type": "Kombucha Sausage",
+    "rating": "4/5",
+    "dibl": "4/5 Mark Buffalos",
+    "dibu": 0,
+    "song": "Pinball Wizard",
+    "episode": "Kombucha (Fermented Tea) Sausage",
+    "episodeID": "UAPR3cLxp48",
+    "episodeType": "Standard",
+    "episodeLength": "05:05"
   }
 ]
