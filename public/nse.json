@@ -1582,5 +1582,68 @@
     "episode": "Pop-Tart BLT",
     "episodeID": "MXNdm4gd3EY",
     "episodeLength": "01:33"
+  },
+  {
+    "id": 177,
+    "type": "Steak Boiled In Cool Whip",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled In Cool Whip",
+    "episodeID": "AoZEcAtHBhA",
+    "episodeLength": "01:30"
+  },
+  {
+    "id": 178,
+    "type": "Italian Hot Dogs",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Is It Any Good? Italian Hot Dogs",
+    "episodeID": "8mfe07R_8qE",
+    "episodeLength": "01:10"
+  },
+  {
+    "id": 179,
+    "type": "Deep Fried Butter",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Butter",
+    "episodeID": "ZfwZtJjfECc",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 180,
+    "type": "Arby's Sauce Pot Roast",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Arby's Sauce Pot Roast",
+    "episodeID": "gkIATmMyimQ",
+    "episodeLength": "01:06"
+  },
+  {
+    "id": 181,
+    "type": "Deep Fried Coffee",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Coffee",
+    "episodeID": "togvI85qr2A",
+    "episodeLength": "01:25"
+  },
+  {
+    "id": 182,
+    "type": "McRib Chowder",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "McRib Chowder",
+    "episodeID": "Lvr4pRBXzXQ",
+    "episodeLength": "01:29"
+  },
+  {
+    "id": 183,
+    "type": "Homemade Butter",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Homemade Butter",
+    "episodeID": "l9-P1WGfOwo",
+    "episodeLength": "01:23"
   }
 ]
