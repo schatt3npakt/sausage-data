@@ -6550,5 +6550,53 @@
     "episodeID": "zE0FuLALyVM",
     "episodeType": "Standard",
     "episodeLength": "05:04"
+  },
+  {
+    "id": 547,
+    "type": "Century Eggs",
+    "rating": "0/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Everybody Plays the Fool",
+    "episode": "Century Eggs Sausage",
+    "episodeID": "4fxRnJAOUmk",
+    "episodeType": "Standard",
+    "episodeLength": "05:42"
+  },
+  {
+    "id": 548,
+    "type": "A Brick of Lard Sausage",
+    "rating": "4/5",
+    "dibl": "0.5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Eternal Flame",
+    "episode": "A Brick of Lard Sausage",
+    "episodeID": "m3pHMtl4SoI",
+    "episodeType": "Standard",
+    "episodeLength": "05:41"
+  },
+  {
+    "id": 549,
+    "type": "Bird's Nest and White Fungus Water Sausage",
+    "rating": "1.5/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Every Rose Has Its Thorn",
+    "episode": "Bird's Nest and White Fungus Water Sausage",
+    "episodeID": "rPtwnwfpgaU",
+    "episodeType": "Standard",
+    "episodeLength": "05:41"
+  },
+  {
+    "id": 550,
+    "type": "Icelandic Fish Pudding (Fiskbudingur) Sausage",
+    "rating": "1.5/5",
+    "dibl": "0/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Unknown Song",
+    "episode": "Icelandic Fish Pudding (Fiskbudingur) Sausage",
+    "episodeID": "g5jkItz-u2M",
+    "episodeType": "Standard",
+    "episodeLength": "05:20"
   }
 ]

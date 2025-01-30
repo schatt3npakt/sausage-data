@@ -1645,5 +1645,86 @@
     "episode": "Homemade Butter",
     "episodeID": "l9-P1WGfOwo",
     "episodeLength": "01:23"
+  },
+  {
+    "id": 184,
+    "type": "Nerds Scrambled Eggs",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "Nerds Scrambled Eggs",
+    "episodeID": "3aLZ4F8pZ_U",
+    "episodeLength": "01:00"
+  },
+  {
+    "id": 185,
+    "type": "Pickle Pancakes",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Nerds Scrambled Eggs",
+    "episodeID": "H-RYjQgr7y0",
+    "episodeLength": "01:08"
+  },
+  {
+    "id": 186,
+    "type": "Steak Boiled in Honey Mustard",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Honey Mustard",
+    "episodeID": "cDAflEFeIa0",
+    "episodeLength": "01:11"
+  },
+  {
+    "id": 187,
+    "type": "Deep Fried Onion Ball",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Onion Ball",
+    "episodeID": "DS7c1_cwFQw",
+    "episodeLength": "01:28"
+  },
+  {
+    "id": 188,
+    "type": "Oreo Omlette",
+    "rating": "2.5/5",
+    "song": "- No Song -",
+    "episode": "Oreo Omlette",
+    "episodeID": "6lJ1z1ebRds",
+    "episodeLength": "01:45"
+  },
+  {
+    "id": 189,
+    "type": "Meat Cookie",
+    "rating": "0/5",
+    "song": "- No Song -",
+    "episode": "Meat Cookie",
+    "episodeID": "NDiMrHp_Ad8",
+    "episodeLength": "01:10"
+  },
+  {
+    "id": 190,
+    "type": "Deep Fried Linguine",
+    "rating": "3/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried Linguine",
+    "episodeID": "loPKOXQ1jYM",
+    "episodeLength": "01:21"
+  },
+  {
+    "id": 191,
+    "type": "Cooking a Lobster Tail with a Hairdryer",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Cooking a Lobster Tail with a Hairdryer",
+    "episodeID": "xdD5T34xt0M",
+    "episodeLength": "01:18"
+  },
+  {
+    "id": 192,
+    "type": "Onion Ring Cookies",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Onion Ring Cookies",
+    "episodeID": "0Ay9sCiGdzA",
+    "episodeLength": "01:04"
   }
 ]
