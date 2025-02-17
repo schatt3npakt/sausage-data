@@ -6589,7 +6589,7 @@
   },
   {
     "id": 550,
-    "type": "Icelandic Fish Pudding (Fiskbudingur) Sausage",
+    "type": "Icelandic Fish Pudding (Fiskbudingur)",
     "rating": "1.5/5",
     "dibl": "0/5 Mark Ruffalos",
     "dibu": 0,
@@ -6598,5 +6598,41 @@
     "episodeID": "g5jkItz-u2M",
     "episodeType": "Standard",
     "episodeLength": "05:20"
+  },
+  {
+    "id": 551,
+    "type": "Cuitlacoche Corn Fungus",
+    "rating": "4/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Criminal",
+    "episode": "Cuitlacoche Corn Fungus Sausage (Not Suitable for Children)",
+    "episodeID": "mSddqKFbwug",
+    "episodeType": "Standard",
+    "episodeLength": "05:18"
+  },
+  {
+    "id": 552,
+    "type": "Sprats",
+    "rating": "4.5/5",
+    "dibl": "4/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Devil Went Down To Georgia",
+    "episode": "Sprats Sausage",
+    "episodeID": "aIo7LwCTue4",
+    "episodeType": "Standard",
+    "episodeLength": "05:01"
+  },
+  {
+    "id": 553,
+    "type": "Natto",
+    "rating": "Disqualified",
+    "dibl": "4/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "If I Only Had a Brain",
+    "episode": "Natto Sausage",
+    "episodeID": "qAD9qYQctg0",
+    "episodeType": "Standard",
+    "episodeLength": "05:34"
   }
 ]

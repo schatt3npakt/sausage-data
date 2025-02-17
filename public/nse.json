@@ -1726,5 +1726,41 @@
     "episode": "Onion Ring Cookies",
     "episodeID": "0Ay9sCiGdzA",
     "episodeLength": "01:04"
+  },
+  {
+    "id": 193,
+    "type": "Steak Boiled in Gusher's Fruit Snacks",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Gusher's Fruit Snacks",
+    "episodeID": "imf__XoRdbo",
+    "episodeLength": "01:12"
+  },
+  {
+    "id": 194,
+    "type": "Improved Hot Dogs",
+    "rating": "2/5",
+    "song": "- No Song -",
+    "episode": "Cheap Hot Dog Improvement Challenge",
+    "episodeID": "h3PCp2gCx3o",
+    "episodeLength": "01:20"
+  },
+  {
+    "id": 195,
+    "type": "One Pound Deep Fried Brick of Cheese",
+    "rating": "4/5",
+    "song": "- No Song -",
+    "episode": "One Pound Deep Fried Brick of Cheese",
+    "episodeID": "i5YfwYG8iY8",
+    "episodeLength": "01:03"
+  },
+  {
+    "id": 196,
+    "type": "Steak Boiled in Onion Mush",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Onion Mush",
+    "episodeID": "lU8F4i_GPVs",
+    "episodeLength": "01:27"
   }
 ]
