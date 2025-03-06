@@ -6206,7 +6206,7 @@
   {
     "id": 518,
     "type": "Tiger Skin Chicken Feet",
-    "rating": "5/5",
+    "rating": "0.5/5",
     "dibl": "5/5 Mark Ruffalos",
     "dibu": 0,
     "song": "Crazy World",
@@ -6217,18 +6217,6 @@
   },
   {
     "id": 519,
-    "type": "Tiger Skin Chicken Feet",
-    "rating": "5/5",
-    "dibl": "5/5 Mark Ruffalos",
-    "dibu": 0,
-    "song": "Crazy World",
-    "episode": "Tiger Skin Chicken Feet Sausage",
-    "episodeID": "P4quUqmFS-4",
-    "episodeType": "Standard",
-    "episodeLength": "06:23"
-  },
-  {
-    "id": 520,
     "type": "Chicken Soup",
     "rating": "4/5",
     "dibl": "Not Done",
@@ -6240,7 +6228,7 @@
     "episodeLength": "01:00"
   },
   {
-    "id": 521,
+    "id": 520,
     "type": "Meat Glue",
     "rating": "3.5/5",
     "dibl": "0.5/5 Mark Ruffalos",
@@ -6252,7 +6240,7 @@
     "episodeLength": "06:06"
   },
   {
-    "id": 522,
+    "id": 521,
     "type": "Seaweed Caviar",
     "rating": "1/5",
     "dibl": "1/5 Mark Ruffalos",
@@ -6264,7 +6252,7 @@
     "episodeLength": "05:27"
   },
   {
-    "id": 523,
+    "id": 522,
     "type": "Carolina Reaper Peanuts",
     "rating": "1/5",
     "dibl": "1/5 Mark Ruffalos",
@@ -6276,7 +6264,7 @@
     "episodeLength": "05:41"
   },
   {
-    "id": 524,
+    "id": 523,
     "type": "Mexican Chorizo",
     "rating": "5/5",
     "dibl": "1/5 Mark Ruffalos",
@@ -6288,7 +6276,7 @@
     "episodeLength": "04:58"
   },
   {
-    "id": 525,
+    "id": 524,
     "type": "Toilet Paper",
     "rating": "0.5/5",
     "dibl": "3/5 Mark Ruffalos",
@@ -6300,7 +6288,7 @@
     "episodeLength": "03:01"
   },
   {
-    "id": 526,
+    "id": 525,
     "type": "Buffalo Chicken Dip",
     "rating": "2/5",
     "dibl": "2/5 Mark Ruffalos",
@@ -6312,7 +6300,7 @@
     "episodeLength": "03:35"
   },
   {
-    "id": 527,
+    "id": 526,
     "type": "Sai Ua",
     "rating": "0.5/5",
     "dibl": "2.5/5 Mark Ruffalos",
@@ -6324,7 +6312,7 @@
     "episodeLength": "06:51"
   },
   {
-    "id": 528,
+    "id": 527,
     "type": "Sausage Hand",
     "rating": "4/5",
     "dibl": "- Not Done -",
@@ -6336,7 +6324,7 @@
     "episodeLength": "01:02"
   },
   {
-    "id": 529,
+    "id": 528,
     "type": "Chicken Jelly Belly",
     "rating": "1/5",
     "dibl": "4/5 Mark Ruffalos",
@@ -6348,7 +6336,7 @@
     "episodeLength": "04:44"
   },
   {
-    "id": 530,
+    "id": 529,
     "type": "Snail Noodle Soup",
     "rating": "3.5/5",
     "dibl": "5/5 Mark Ruffalos",
@@ -6360,7 +6348,7 @@
     "episodeLength": "05:50"
   },
   {
-    "id": 531,
+    "id": 530,
     "type": "Dry Iceage",
     "rating": "0/5",
     "dibl": "Not Done",
@@ -6372,7 +6360,7 @@
     "episodeLength": "01:39"
   },
   {
-    "id": 532,
+    "id": 531,
     "type": "Cajun Andouille",
     "rating": "4/5",
     "dibl": "3/5 Mark Ruffalos",
@@ -6384,7 +6372,7 @@
     "episodeLength": "04:53"
   },
   {
-    "id": 533,
+    "id": 532,
     "type": "Sausage Skull",
     "rating": "4/5",
     "dibl": "- Not Done -",
@@ -6396,7 +6384,7 @@
     "episodeLength": "01:06"
   },
   {
-    "id": 534,
+    "id": 533,
     "type": "An Entire Bottle of Pure Vanilla Extract",
     "rating": "0/5",
     "dibl": "4/5 Mark Ruffalos",
@@ -6408,7 +6396,7 @@
     "episodeLength": "06:04"
   },
   {
-    "id": 535,
+    "id": 534,
     "type": "OREO Coke Coke OREO",
     "rating": "1/5",
     "dibl": "5/5 Mark Ruffalos",
@@ -6420,7 +6408,7 @@
     "episodeLength": "05:07"
   },
   {
-    "id": 536,
+    "id": 535,
     "type": "German Fischbrötchen",
     "rating": "4/5",
     "dibl": "2/5 Mark Ruffalos",
@@ -6432,7 +6420,7 @@
     "episodeLength": "04:22"
   },
   {
-    "id": 537,
+    "id": 536,
     "type": "Dog Treats",
     "rating": "0/5",
     "dibl": "2/5 Mark Ruffalos",
@@ -6444,7 +6432,7 @@
     "episodeLength": "05:26"
   },
   {
-    "id": 538,
+    "id": 537,
     "type": "Jackfruit",
     "rating": "2.5/5",
     "dibl": "2/5 Mark Ruffalos",
@@ -6456,7 +6444,7 @@
     "episodeLength": "03:21"
   },
   {
-    "id": 539,
+    "id": 538,
     "type": "Pickle Cotton Candy",
     "rating": "0/5",
     "dibl": "3/5 Mark Ruffalos",
@@ -6468,7 +6456,7 @@
     "episodeLength": "04:46"
   },
   {
-    "id": 540,
+    "id": 539,
     "type": "An Entire Can of PAM Cooking Spray",
     "rating": "5/5",
     "dibl": "4/5 Mark Ruffalos",
@@ -6480,7 +6468,7 @@
     "episodeLength": "05:54"
   },
   {
-    "id": 541,
+    "id": 540,
     "type": "Olde Timey Mushroom Ketchup Sausage",
     "rating": "1/5",
     "dibl": "0/5 Mark Ruffalos",
@@ -6492,7 +6480,7 @@
     "episodeLength": "05:30"
   },
   {
-    "id": 542,
+    "id": 541,
     "type": "Kombucha Sausage",
     "rating": "4/5",
     "dibl": "4/5 Mark Ruffalos",
@@ -6504,7 +6492,7 @@
     "episodeLength": "05:05"
   },
   {
-    "id": 543,
+    "id": 542,
     "type": "Whole Organic Vanilla Bean",
     "rating": "1/5",
     "dibl": "3/5 Mark Ruffalos",
@@ -6516,7 +6504,7 @@
     "episodeLength": "05:35"
   },
   {
-    "id": 544,
+    "id": 543,
     "type": "Freeze Dried Ground Beef",
     "rating": "1/5",
     "dibl": "0.5/5 Mark Ruffalos",
@@ -6528,7 +6516,7 @@
     "episodeLength": "05:20"
   },
   {
-    "id": 545,
+    "id": 544,
     "type": "Canned Scottish Haggis",
     "rating": "1/5",
     "dibl": "4/5 Mark Ruffalos",
@@ -6540,7 +6528,7 @@
     "episodeLength": "05:20"
   },
   {
-    "id": 546,
+    "id": 545,
     "type": "The World's Hottest Gummy Bear",
     "rating": "1/5",
     "dibl": "0.5/5 Mark Ruffalos",
@@ -6552,7 +6540,7 @@
     "episodeLength": "05:04"
   },
   {
-    "id": 547,
+    "id": 546,
     "type": "Century Eggs",
     "rating": "0/5",
     "dibl": "3/5 Mark Ruffalos",
@@ -6564,7 +6552,7 @@
     "episodeLength": "05:42"
   },
   {
-    "id": 548,
+    "id": 547,
     "type": "A Brick of Lard Sausage",
     "rating": "4/5",
     "dibl": "0.5/5 Mark Ruffalos",
@@ -6576,7 +6564,7 @@
     "episodeLength": "05:41"
   },
   {
-    "id": 549,
+    "id": 548,
     "type": "Bird's Nest and White Fungus Water Sausage",
     "rating": "1.5/5",
     "dibl": "3/5 Mark Ruffalos",
@@ -6588,7 +6576,7 @@
     "episodeLength": "05:41"
   },
   {
-    "id": 550,
+    "id": 549,
     "type": "Icelandic Fish Pudding (Fiskbudingur)",
     "rating": "1.5/5",
     "dibl": "0/5 Mark Ruffalos",
@@ -6600,7 +6588,7 @@
     "episodeLength": "05:20"
   },
   {
-    "id": 551,
+    "id": 550,
     "type": "Cuitlacoche Corn Fungus",
     "rating": "4/5",
     "dibl": "3/5 Mark Ruffalos",
@@ -6612,7 +6600,7 @@
     "episodeLength": "05:18"
   },
   {
-    "id": 552,
+    "id": 551,
     "type": "Sprats",
     "rating": "4.5/5",
     "dibl": "4/5 Mark Ruffalos",
@@ -6624,7 +6612,7 @@
     "episodeLength": "05:01"
   },
   {
-    "id": 553,
+    "id": 552,
     "type": "Natto",
     "rating": "Disqualified",
     "dibl": "4/5 Mark Ruffalos",
@@ -6634,5 +6622,29 @@
     "episodeID": "qAD9qYQctg0",
     "episodeType": "Standard",
     "episodeLength": "05:34"
+  },
+  {
+    "id": 553,
+    "type": "Rat Food",
+    "rating": "0.5/5",
+    "dibl": "2/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Bullet With Butterfly Wings",
+    "episode": "Rat Food Sausage :(",
+    "episodeID": "dEuC4u4LWlo",
+    "episodeType": "Standard",
+    "episodeLength": "04:45"
+  },
+  {
+    "id": 554,
+    "type": "Tarantula",
+    "rating": "0/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Sweet Caroline",
+    "episode": "Tarantula Sausage",
+    "episodeID": "wA1PojU_A4o",
+    "episodeType": "Standard",
+    "episodeLength": "05:39"
   }
 ]

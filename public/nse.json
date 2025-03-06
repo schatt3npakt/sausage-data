@@ -1771,5 +1771,50 @@
     "episode": "Carbonated Jello",
     "episodeID": "MvudnBR89Qs",
     "episodeLength": "01:06"
+  },
+  {
+    "id": 198,
+    "type": "Steak Boiled in Garlic Slush",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "Steak Boiled in Garlic Slush",
+    "episodeID": "oJGFqGI9oKA",
+    "episodeLength": "01:22"
+  },
+  {
+    "id": 199,
+    "type": "Deep Fried White Castles",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried White Castles",
+    "episodeID": "7n8clhB9uWM",
+    "episodeLength": "01:00"
+  },
+  {
+    "id": 200,
+    "type": "Starbucks Boiled Chicken",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Starbucks Boiled Chicken",
+    "episodeID": "oO_oyaOIo_U",
+    "episodeLength": "01:16"
+  },
+  {
+    "id": 201,
+    "type": "A1 Steak Sauce Ice Cream",
+    "rating": "1/5",
+    "song": "- No Song -",
+    "episode": "A1 Steak Sauce Ice Cream",
+    "episodeID": "ODqC4zd_Unw",
+    "episodeLength": "01:12"
+  },
+  {
+    "id": 202,
+    "type": "Deep Fried SpongeBob SquarePants Popsicle",
+    "rating": "5/5",
+    "song": "- No Song -",
+    "episode": "Deep Fried SpongeBob SquarePants Popsicle",
+    "episodeID": "XgDiMrz6qMw",
+    "episodeLength": "01:04"
   }
 ]
