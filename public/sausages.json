@@ -6646,5 +6646,29 @@
     "episodeID": "wA1PojU_A4o",
     "episodeType": "Standard",
     "episodeLength": "05:39"
+  },
+  {
+    "id": 555,
+    "type": "Ammonia",
+    "rating": "4/5",
+    "dibl": "0.5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "Since U Been Gone, You're Beautiful",
+    "episode": "Ammonia Sausage",
+    "episodeID": "fZHhUqs-GvY",
+    "episodeType": "Standard",
+    "episodeLength": "05:06"
+  },
+  {
+    "id": 556,
+    "type": "Taiyaki",
+    "rating": "1/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Unknown Song",
+    "episode": "Taiyaki Sausage",
+    "episodeID": "ST54k-C7RKE",
+    "episodeType": "Standard",
+    "episodeLength": "05:00"
   }
 ]
