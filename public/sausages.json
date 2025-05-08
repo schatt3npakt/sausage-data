@@ -6670,5 +6670,89 @@
     "episodeID": "ST54k-C7RKE",
     "episodeType": "Standard",
     "episodeLength": "05:00"
+  },
+  {
+    "id": 557,
+    "type": "Russian Beef Stew",
+    "rating": "1.5/5",
+    "dibl": "4/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Back in Black",
+    "episode": "Russian Beef Stew Sausage",
+    "episodeID": "20bkonTb_bg",
+    "episodeType": "Standard",
+    "episodeLength": "05:04"
+  },
+  {
+    "id": 558,
+    "type": "Printer Ink",
+    "rating": "3/5",
+    "dibl": "3/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "The Taste Of Ink",
+    "episode": "Printer Ink Sausage",
+    "episodeID": "elRmIfmKdKI",
+    "episodeType": "Standard",
+    "episodeLength": "04:53"
+  },
+  {
+    "id": 559,
+    "type": "Baking Soda",
+    "rating": "0/5",
+    "dibl": "0/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Somebody To Love",
+    "episode": "Printer Ink Sausage",
+    "episodeID": "Baking Soda Sausage",
+    "episodeType": "Standard",
+    "episodeLength": "05:13"
+  },
+  {
+    "id": 560,
+    "type": "Glitter",
+    "rating": "1/5",
+    "dibl": "5/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "The Weight",
+    "episode": "Glitter Sausage (May not be suitable for children)",
+    "episodeID": "xJ7a1CZyGAw",
+    "episodeType": "Standard",
+    "episodeLength": "05:03"
+  },
+  {
+    "id": 561,
+    "type": "Weird Swedish Candy",
+    "rating": "2/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "Jump On It",
+    "episode": "Weird Swedish Candy Someone Sent Me Sausage",
+    "episodeID": "sElSG8__D_Y",
+    "episodeType": "Standard",
+    "episodeLength": "05:27"
+  },
+  {
+    "id": 562,
+    "type": "Cosmonaut Space Food",
+    "rating": "0.5/5",
+    "dibl": "4/5 Mark Ruffalos",
+    "dibu": 1,
+    "song": "We're Doing a Sequel",
+    "episode": "Cosmonaut Space Food Sausage",
+    "episodeID": "zje08V6acuk",
+    "episodeType": "Standard",
+    "episodeLength": "04:57"
+  },
+  {
+    "id": 563,
+    "type": "Flavacol Sausage",
+    "rating": "2.5/5",
+    "dibl": "1/5 Mark Ruffalos",
+    "dibu": 0,
+    "song": "You've Lost That Lovin' Feelin'",
+    "episode": "Flavacol Sausage",
+    "episodeID": "c7qF0DwOvJE",
+    "episodeType": "Standard",
+    "episodeLength": "03:39"
   }
 ]
